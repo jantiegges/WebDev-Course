@@ -56,6 +56,8 @@ Absatz-Elemente werden verwendet, um Absätze zu erstellen. Sie werden mit dem T
 
 ### [Aufgabe 3: HTML-Elemente](./aufgabe-3-html-elemente)
 
+Um die HTML-Elemente zu sehen, die wir in dieser Lektion erstellt haben, kannst du die Datei `index.html` in deinem Browser öffnen. Dazu musst du die Datei in deinem Code-Editor öffnen und mit der rechten Maustaste auf die Datei klicken. Hier wähle `Open with` aus und wähle den Browser aus, mit dem du die Datei öffnen möchtest. Ein Beispiel für einen Browser ist [Google Chrome](https://www.google.com/chrome/). Wenn du etwas an der Website änderst, musst du die Datei speichern und den Browser aktualisieren, damit die Änderungen angezeigt werden.
+
 ## 3. CSS
 
 CSS steht für Cascading Style Sheets. Es ist eine Programmiersprache, die verwendet wird, um die Darstellung von Webseiten zu gestalten. CSS ist eine sogenannte Style-Sprache, das bedeutet, dass sie Texte mit Regeln markiert, die die Darstellung der Website beschreiben.
@@ -106,7 +108,7 @@ Mit der CSS-Eigenschaft `font-family` können wir die Schriftart eines HTML-Elem
 
 ```css
 h1 {
-  font-family: Times New Roman;
+  font-family: "Arial";
 }
 ```
 
@@ -117,6 +119,16 @@ Mit der CSS-Eigenschaft `font-size` können wir die Schriftgröße eines HTML-El
 ```css
 p {
   font-size: 12px;
+}
+```
+
+#### Schriftposition
+
+Mit der CSS-Eigenschaft `text-align` können wir die Schriftposition eines HTML-Elements ändern. Der Wert der Eigenschaft muss eine Schriftposition sein. Eine Schriftposition kann entweder `left`, `center` oder `right` sein. Ein Beispiel für eine CSS-Regel, die die Schriftposition eines Absatz-Elements ändert, ist:
+
+```css
+p {
+  text-align: center;
 }
 ```
 
