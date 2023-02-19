@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Starcode Webetwicklung Kurs',
+  title: 'Starcode Webentwicklung Kurs',
   tagline: 'Lerne deine eigene Webseite zu erstellen',
   favicon: 'img/favicon.ico',
 
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jantiegges', // Usually your GitHub org/user name.
-  projectName: 'starcode_web_development_course', // Usually your repo name.
+  projectName: 'starcode_web_development_course_website', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
