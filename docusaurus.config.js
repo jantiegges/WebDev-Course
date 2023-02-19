@@ -59,7 +59,7 @@ const config = {
         title: 'Starcode Webentwicklung Kurs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.jpg',
+          src: 'img/logo.png',
         },
         items: [
           {
