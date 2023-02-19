@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Starcode Webetwicklung Kurs Blog</title>
+        <title>Starcode Webentwicklung Kurs Blog</title>
         <link>https://jantiegges.github.io/starcode_web_development_course_website/blog</link>
-        <description>Starcode Webetwicklung Kurs Blog</description>
+        <description>Starcode Webentwicklung Kurs Blog</description>
         <lastBuildDate>Sun, 19 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>

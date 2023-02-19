@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jantiegges.github.io/starcode_web_development_course_website/blog</id>
-    <title>Starcode Webetwicklung Kurs Blog</title>
+    <title>Starcode Webentwicklung Kurs Blog</title>
     <updated>2023-02-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jantiegges.github.io/starcode_web_development_course_website/blog"/>
-    <subtitle>Starcode Webetwicklung Kurs Blog</subtitle>
+    <subtitle>Starcode Webentwicklung Kurs Blog</subtitle>
     <icon>https://jantiegges.github.io/starcode_web_development_course_website/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Willkommen]]></title>
