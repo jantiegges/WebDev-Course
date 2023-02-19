@@ -80,10 +80,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Kurs',
+            title: 'Inhalt',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Kursübersicht',
                 to: '/docs/intro',
               },
             ],
@@ -119,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Starcode E.V.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Starcode e.V.`,
       },
       prism: {
         theme: lightCodeTheme,
