@@ -5,5 +5,5 @@
 3. Schaut euch die HTML-Struktur der Website an (Section "Elements")
 4. Wählt eine Überschrift aus (mit Doppelklick) und ändert den Text
    ![change heading text](./img/change-heading-text.png)
-5. Klickt auf das "Styles"-Tab und ändert die Farbe der Überschrift
+5. Klickt auf das "Styles"-Tab und ändert die Farbe der Überschrift. Dies erreicht ihr indem ihr das Attribut "color" zu eurer Wunschfarbe ändert.
    ![change heading color](./img/change-heading-color.png)

@@ -10,11 +10,11 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "Lerne die Grundlagen der Webprogrammierung",
+    title: "Lerne die Grundlagen der Webentwicklung",
     Svg: require("@site/static/img/web-development.svg").default,
     description: (
       <>
-        In diesem Kurs lernst du die Grundlagen der Webprogrammierung. Dazu
+        In diesem Kurs lernst du die Grundlagen der Webentwicklung. Dazu
         gehören HTML, CSS und JavaScript.
       </>
     ),
