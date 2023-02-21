@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Willkommen zu der Website zum Starcode Webentwicklung Kurs.
 
-## Zeitplan
+## Kursplan
 
 ### Phase 1: Einführung in die Webentwicklung
 
@@ -32,7 +32,9 @@ Geh zum [Kursabschnitt](./einführung-in-die-webentwicklung).
 
 ## 2 Einführung in HTML und CSS
 
-tbd
+In dieser Lektion lernen wir HTML und CSS etwas genauer kennen und erstellen unsere erste eigene Website. Hierzu verwenden wir HTML um den Inhalt der Website zu erstellen und CSS um die Darstellung zu gestalten.
+
+Geh zum [Kursabschnitt](./einführung-in-html-und-css).
 
 ## 3 Vertiefung HTML und CSS
 
