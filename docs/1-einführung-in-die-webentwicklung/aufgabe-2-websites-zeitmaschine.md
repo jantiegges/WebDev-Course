@@ -6,3 +6,5 @@
 
 Beispiel: Amazon im Jahr 2007
 ![amazon old](./img/amazon-old.png)
+
+_Bildquelle: [http://web.archive.org/web/20070119085546/http://www.amazon.de/](http://web.archive.org/web/20070119085546/http://www.amazon.de/)_

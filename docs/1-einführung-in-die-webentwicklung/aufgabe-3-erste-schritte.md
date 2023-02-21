@@ -1,15 +1,15 @@
 # Aufgabe 3: Erste Schritte mit HTML und CSS
 
-1. Öffnet die Website https://codeply.com
-2. Klickt auf "New Ply"
-3. Schreibt in das HTML Feld folgenden Code:
+1. Öffne die Website https://codeply.com
+2. Klick auf "New Ply"
+3. Schreib in das HTML Feld folgenden Code:
 
    ```html
    <h1>Deine Überschrift</h1>
    ```
 
-4. Klickt auf "Run"
-5. Schreibt in das CSS Feld folgenden Code:
+4. Klick auf "Run" (der play-Button)
+5. Schreib in das CSS Feld folgenden Code:
 
    ```css
    h1 {
@@ -17,8 +17,8 @@
    }
    ```
 
-6. Klickt auf "Run"
-7. Schreibt in das CSS Feld folgenden Code:
+6. Klick auf "Run"
+7. Schreib in das CSS Feld folgenden Code:
 
    ```css
    body {
@@ -26,4 +26,4 @@
    }
    ```
 
-8. Klickt auf "Run"
+8. Klick auf "Run"
