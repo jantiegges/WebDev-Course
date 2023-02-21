@@ -172,6 +172,8 @@ Am Ende dieser Lektion sollte die Website ungefähr so aussehen:
 | :----------------------------: | :---------------------------: |
 | ![Startseite](./img/index.png) | ![Hobbies](./img/hobbies.png) |
 
+Die fertigen Dateien für die Aufgaben findest du hier.
+
 Dieser Kurs deckt aber nur einen kleinen Teil der existierenden HTML-Elemente und CSS-Attribute ab. Wenn ihr mehr über HTML und CSS lernen wollt, könnt ihr euch die offizielle Dokumentation von Mozilla anschauen. Hier findet ihr eine Liste aller HTML-Elemente und CSS-Attribute mit einer Beschreibung und Beispielen.
 
 [MDN Web Docs](https://developer.mozilla.org/de/docs/Web)
