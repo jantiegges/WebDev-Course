@@ -14,7 +14,11 @@ Zum Programmieren verwenden wir einen Code-Editor. Ein Code-Editor ist ein Progr
 
 Ein Beispiel für einen Code-Editor ist [Visual Studio Code](https://code.visualstudio.com/).
 
+---
+
 ### [Aufgabe 1: Ein neues Projekt erstellen](./aufgabe-1-projekt-erstellen)
+
+---
 
 ## 2. HTML
 
@@ -30,7 +34,11 @@ Der Kopfbereich `<head> </head>` enthält Informationen über die Website, die n
 Der Körperbereich `<body> </body>` enthält den Inhalt der Website, der angezeigt wird.
 :::
 
+---
+
 ### [Augabe 2: Eine HTML-Datei erstellen](./aufgabe-2-html-datei-erstellen)
+
+---
 
 ### HTML-Elemente
 
@@ -58,7 +66,11 @@ Absatz-Elemente werden verwendet, um Absätze zu erstellen. Sie werden mit dem T
 
 > <p>Dies ist ein Absatz.</p>
 
+---
+
 ### [Aufgabe 3: HTML-Elemente](./aufgabe-3-html-elemente)
+
+---
 
 Um die HTML-Elemente zu sehen, die wir in dieser Lektion erstellt haben, kannst du die Datei `index.html` in deinem Browser öffnen. Dazu musst du die Datei in deinem Code-Editor öffnen und mit der rechten Maustaste auf die Datei klicken. Hier wähle `Open with` aus und wähle den Browser aus, mit dem du die Datei öffnen möchtest. Ein Beispiel für einen Browser ist [Google Chrome](https://www.google.com/chrome/). Wenn du etwas an der Website änderst, musst du die Datei speichern und den Browser aktualisieren, damit die Änderungen angezeigt werden.
 
@@ -74,7 +86,11 @@ CSS-Dateien haben die Endung `.css`. CSS-Dateien werden in HTML-Dateien eingebun
 <link rel="stylesheet" href="style.css" />
 ```
 
+---
+
 ### [Aufgabe 4: Eine CSS-Datei erstellen und verlinken](./aufgabe-4-css-datei-erstellen)
+
+---
 
 ### CSS-Regeln
 
@@ -102,7 +118,11 @@ p {
 }
 ```
 
+---
+
 ### [Aufgabe 5: Farben mit CSS](./aufgabe-5-farben-mit-css)
+
+---
 
 Nun wollen wir drei weitere CSS-Regeln kennenlernen, die wir für das Gestalten von Text verwenden können.
 
@@ -136,11 +156,17 @@ p {
 }
 ```
 
+---
+
 ### [Aufgabe 6: Text mit CSS](./aufgabe-6-text-mit-css)
+
+---
 
 ## 4. Abschluss
 
 Nun hast du bereits einiges über HTML und CSS gelernt und kannst deine ersten Webseiten erstellen. Probier gerne aus, was du gelernt hast und erstelle deine eigene Website. Viel Spaß!
+
+In der nächsten Lektion vertiefen wir unser Wissen über HTML und CSS und lernen und du lernst kennen wie wir unsere Website noch schöner gestalten können.
 
 Die fertigen Dateien für die Aufgaben findest du [hier](https://github.com/jantiegges/starcode_web_development_course/tree/main/2-introduction-to-html-and-css).
 

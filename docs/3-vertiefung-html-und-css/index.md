@@ -38,9 +38,13 @@ Mit dem `img`-Element können wir Bilder in unsere Website einfügen. Dieses Ele
 />
 ```
 
-**Tipp:** Ihr könnt die Bildadresse auch aus dem Browser kopieren, indem ihr mit der rechten Maustaste auf ein Bild klickt und dann auf "Bildadresse kopieren" klickt.
+_Tipp: Ihr könnt die Bildadresse auch aus dem Browser kopieren, indem ihr mit der rechten Maustaste auf ein Bild klickt und dann auf "Bildadresse kopieren" klickt._
+
+---
 
 ### [Aufgabe 1: Hobbies hinzufügen](./aufgabe-1-hobbies-hinzufügen)
+
+---
 
 ## 2. Anchor Tags
 
@@ -52,9 +56,13 @@ In der letzten Aufgabe habt ihr schon gesehen wie man Bilder auf einer Website v
 
 > <a href="https://www.starcode.de">Starcode</a>
 
-**Tipp:** Ihr könnt die Linkadresse aus dem Browser kopieren, indem ihr oben in die Adresszeile klickt und dann den markierten Text kopiert.
+_Tipp: Ihr könnt die Linkadresse aus dem Browser kopieren, indem ihr oben in die Adresszeile klickt und dann den markierten Text kopiert._
+
+---
 
 ### [Aufgabe 2: Link zur Lieblingssehenswürdigkeit](./aufgabe-2-link-zur-lieblingssehenswürdigkeit)
+
+---
 
 Nun haben wir gesehen wie wir andere Websiten verlinken können. Moderne Websiten bestehen jedoch oft aus mehreren Seiten. Um zwischen diesen Seiten zu wechseln, müssen wir Links zu den anderen Seiten erstellen. Hierzu verwenden wir als Link nicht wie in der vorherigen Aufgabe den Website-Link, sondern den Pfad zur Datei der anderen Seite.
 
@@ -62,7 +70,11 @@ Nun haben wir gesehen wie wir andere Websiten verlinken können. Moderne Website
 <a href="zweite-seite.html">Zweite Seite</a>
 ```
 
+---
+
 ### [Aufgabe 3: Hobbies-Seite erstellen](./aufgabe-3-hobbies-seite-erstellen)
+
+---
 
 ## 3. Div - Container
 
@@ -86,7 +98,11 @@ Ihr erstellt divs mit dem `div`-Tag.
 >  <p>Text</p>
 > </div>
 
+---
+
 ### [Aufgabe 4: Divs Unterteilung](./aufgabe-4-divs-unterteilung)
+
+---
 
 ## 4. HTML-Attribute & Klassen
 
@@ -104,7 +120,11 @@ HTML-Attribute (wie das `class`-Attribut) werden innerhalb des Start-Tags eines 
 <div class="fahrrad"></div>
 ```
 
+---
+
 ### [Aufgabe 5: Klassen hinzufügen](./aufgabe-5-klassen-hinzufügen)
+
+---
 
 ## 5. CSS - Selektoren
 
@@ -126,7 +146,11 @@ Hiermit ändern wir von allen `h1`-Überschriften die sich auf unserer Website b
 
 Hiermit ändern wir von allen Elementen mit der Klasse `fahrrad` den Hintergrund in rosa.
 
+---
+
 ### [Aufgabe 6: Klassen stylen](./aufgabe-6-klassen-stylen)
+
+---
 
 ## 6. CSS - Anordnung
 
@@ -172,15 +196,17 @@ Am Ende dieser Lektion sollte die Website ungefähr so aussehen:
 | :----------------------------: | :---------------------------: |
 | ![Startseite](./img/index.png) | ![Hobbies](./img/hobbies.png) |
 
-Die fertigen Dateien für die Aufgaben findest du hier.
+Die fertigen Dateien für die Aufgaben findest du [hier](https://github.com/jantiegges/starcode_web_development_course/tree/main/3-intermediate-html-and-css).
 
 Dieser Kurs deckt aber nur einen kleinen Teil der existierenden HTML-Elemente und CSS-Attribute ab. Wenn ihr mehr über HTML und CSS lernen wollt, könnt ihr euch die offizielle Dokumentation von Mozilla anschauen. Hier findet ihr eine Liste aller HTML-Elemente und CSS-Attribute mit einer Beschreibung und Beispielen.
 
 [MDN Web Docs](https://developer.mozilla.org/de/docs/Web)
 
+In der nächsten Lektion lernen wir Bootstrap kennen, eine Bibliothek, die uns dabei hilft, unsere Website noch schneller und einfacher zu gestalten.
+
 ---
 
 ## Links
 
-- [MDN Web Docs HTML](https://developer.mozilla.org/de/docs/Web/HTML)
-- [MDN Web Docs CSS](https://developer.mozilla.org/de/docs/Web/CSS)
+[MDN Web Docs HTML](https://developer.mozilla.org/de/docs/Web/HTML)  
+[MDN Web Docs CSS](https://developer.mozilla.org/de/docs/Web/CSS)

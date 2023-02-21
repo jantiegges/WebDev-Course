@@ -20,7 +20,7 @@ In dieser Aufgabe wollen wir eine Liste von Hobbies zu unserer Website hinzufüg
 
 </details>
 
-3. Füge ein Bild von deinem Lieblingshobby unter der Liste ein.
+3. Füge ein Bild von deinem Lieblingshobby unter dem Absatz ein.
 
 <details>
   <summary>Lösung</summary>

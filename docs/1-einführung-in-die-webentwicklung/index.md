@@ -34,7 +34,11 @@ Wenn du diese Sprachen beherrschst, kannst du am Ende des Kurses deine eigenen W
 
 Wir schauen uns einige Websites an, die mit HTML, CSS und JavaScript erstellt wurden.
 
+---
+
 ### [Aufgabe 1: Websites manipulieren](./aufgabe-1-websites-manipulieren.md)
+
+---
 
 **Wichtig:** Wir verändern die Website nur lokal auf unserem Computer. Sobald wir die Website neu laden, ist alles wieder wie vorher, da wir sie uns neu vom Server laden.
 
@@ -46,13 +50,21 @@ _Bildquelle: [https://slideplayer.com/7975239/25/images/slide_1.jpg](https://sli
 
 Wir schauen uns an wie die Webentwicklung sich entwickelt hat. Früher sahen Websites noch anders aus als heute, wo sie sehr interaktiv und ansprechend sind. Daher wollen wir uns ansehen, wie einige bekannte Websites früher aussahen.
 
+---
+
 ### [Aufgabe 2: Websites Zeitmaschine](./aufgabe-2-websites-zeitmaschine.md)
+
+---
 
 ## 5. Sneak Peak in HTML und CSS
 
 Jetzt haben wir bereits einiges gesehen, aber wollen endlich mal selber etwas programmieren.
 
+---
+
 ### [Aufgabe 3: Erste Schritte mit HTML und CSS](./aufgabe-3-erste-schritte.md)
+
+---
 
 ## 6. Abschluss
 
