@@ -24,38 +24,38 @@ Wenn du den Kurs von Starcode besucht hast, kannst du diese Website auch als Nac
 
 Hier sollen die Teilnehmer ihre erlernten Fähigkeiten in kleinen Projekten anwenden. Die Projekte werden von den Teilnehmern selbst gewählt und können z.B. eine eigene Website, ein Blog oder ein Spiel sein.
 
-# Kursinhalt
+## Kursinhalt
 
-## 1 Einführung in die Webentwicklung
+### 1 Einführung in die Webentwicklung
 
 In dieser Lektion lernen wir etwas über die Geschichte der Webentwicklung und wie Websiten funktionieren. Außerdem lernen wir die verschiedenen Programmiersprachen kennen, die zur Erstellung von Websites verwendet werden.
 
 Geh zum [Kursabschnitt](./einführung-in-die-webentwicklung).
 
-## 2 Einführung in HTML und CSS
+### 2 Einführung in HTML und CSS
 
 In dieser Lektion lernen wir HTML und CSS kennen und erstellen unsere erste eigene Website. Hierzu verwenden wir HTML um den Inhalt der Website zu erstellen und CSS um die Darstellung zu gestalten.
 
 Geh zum [Kursabschnitt](./einführung-in-html-und-css).
 
-## 3 Vertiefung HTML und CSS
+### 3 Vertiefung HTML und CSS
 
 In dieser Lektion vertiefen wir unser Wissen über HTML und CSS. Wir lernen wie wir HTML und CSS verwenden können um komplexere Websites zu erstellen.
 
 Geh zum [Kursabschnitt](./vertiefung-html-und-css).
 
-## 4 Einführung in Bootstrap
+### 4 Einführung in Bootstrap
 
 tbd
 
-## 5 Vertiefung Bootstrap
+### 5 Vertiefung Bootstrap
 
 tbd
 
-## 6 Einführung in Javascript
+### 6 Einführung in Javascript
 
 tbd
 
-## 7 Vertiefung Javascript
+### 7 Vertiefung Javascript
 
 tbd
