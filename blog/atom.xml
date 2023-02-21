@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jantiegges.github.io/starcode_web_development_course_website/blog</id>
     <title>Starcode Webentwicklung Kurs Blog</title>
-    <updated>2023-02-19T00:00:00.000Z</updated>
+    <updated>2023-02-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jantiegges.github.io/starcode_web_development_course_website/blog"/>
     <subtitle>Starcode Webentwicklung Kurs Blog</subtitle>
     <icon>https://jantiegges.github.io/starcode_web_development_course_website/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Woche 1 ist online]]></title>
+        <id>https://jantiegges.github.io/starcode_web_development_course_website/blog/woche1</id>
+        <link href="https://jantiegges.github.io/starcode_web_development_course_website/blog/woche1"/>
+        <updated>2023-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Die ersten drei Kursabschnitte sind jetzt online. Hier lernt ihr die Grundlagen der Webentwicklung kennen. Dabei werden HTML und CSS anhand anschaulicher Beispiele erläutert und mit dazugehörigen Aufgaben vertieft. Am Ende habt ihr eine eigene Website erstellt. Viel Spaß beim Lernen!]]></summary>
+        <content type="html"><![CDATA[<p>Die ersten drei Kursabschnitte sind jetzt online. Hier lernt ihr die Grundlagen der Webentwicklung kennen. Dabei werden HTML und CSS anhand anschaulicher Beispiele erläutert und mit dazugehörigen Aufgaben vertieft. Am Ende habt ihr eine eigene Website erstellt. Viel Spaß beim Lernen!</p>]]></content>
+        <author>
+            <name>Jan Tiegges</name>
+        </author>
+        <category label="starcode" term="starcode"/>
+        <category label="woche1" term="woche1"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Willkommen]]></title>
         <id>https://jantiegges.github.io/starcode_web_development_course_website/blog/willkommen</id>
@@ -19,18 +32,5 @@
         </author>
         <category label="starcode" term="starcode"/>
         <category label="hello" term="hello"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woche 1 ist online]]></title>
-        <id>https://jantiegges.github.io/starcode_web_development_course_website/blog/woche1</id>
-        <link href="https://jantiegges.github.io/starcode_web_development_course_website/blog/woche1"/>
-        <updated>2023-02-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Die erste Woche ist online. Die Inhalte sind noch nicht vollständig, aber es gibt schon einiges zu sehen.]]></summary>
-        <content type="html"><![CDATA[<p>Die erste Woche ist online. Die Inhalte sind noch nicht vollständig, aber es gibt schon einiges zu sehen.</p>]]></content>
-        <author>
-            <name>Jan Tiegges</name>
-        </author>
-        <category label="starcode" term="starcode"/>
-        <category label="woche1" term="woche1"/>
     </entry>
 </feed>

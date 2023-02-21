@@ -4,10 +4,20 @@
         <title>Starcode Webentwicklung Kurs Blog</title>
         <link>https://jantiegges.github.io/starcode_web_development_course_website/blog</link>
         <description>Starcode Webentwicklung Kurs Blog</description>
-        <lastBuildDate>Sun, 19 Feb 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Woche 1 ist online]]></title>
+            <link>https://jantiegges.github.io/starcode_web_development_course_website/blog/woche1</link>
+            <guid>https://jantiegges.github.io/starcode_web_development_course_website/blog/woche1</guid>
+            <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Die ersten drei Kursabschnitte sind jetzt online. Hier lernt ihr die Grundlagen der Webentwicklung kennen. Dabei werden HTML und CSS anhand anschaulicher Beispiele erläutert und mit dazugehörigen Aufgaben vertieft. Am Ende habt ihr eine eigene Website erstellt. Viel Spaß beim Lernen!]]></description>
+            <content:encoded><![CDATA[<p>Die ersten drei Kursabschnitte sind jetzt online. Hier lernt ihr die Grundlagen der Webentwicklung kennen. Dabei werden HTML und CSS anhand anschaulicher Beispiele erläutert und mit dazugehörigen Aufgaben vertieft. Am Ende habt ihr eine eigene Website erstellt. Viel Spaß beim Lernen!</p>]]></content:encoded>
+            <category>starcode</category>
+            <category>woche1</category>
+        </item>
         <item>
             <title><![CDATA[Willkommen]]></title>
             <link>https://jantiegges.github.io/starcode_web_development_course_website/blog/willkommen</link>
@@ -17,16 +27,6 @@
             <content:encoded><![CDATA[<p>Willkommen zu der Website zum Starcode Webentwicklung Kurs.</p><p>Dieser Kurs ist eine wöchentliche AG, die von Starcode angeboten wird. Starcode ist eine Initiative zur Förderung von Frauen in der IT. Mehr Informationen zu Starcode gibt es auf der Website <a href="https://www.starcode.de" target="_blank" rel="noopener noreferrer">https://www.starcode.de</a></p><p>Diese Website ist eine Dokumentation des Kurses und soll als Nachschlagewerk dienen.</p>]]></content:encoded>
             <category>starcode</category>
             <category>hello</category>
-        </item>
-        <item>
-            <title><![CDATA[Woche 1 ist online]]></title>
-            <link>https://jantiegges.github.io/starcode_web_development_course_website/blog/woche1</link>
-            <guid>https://jantiegges.github.io/starcode_web_development_course_website/blog/woche1</guid>
-            <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Die erste Woche ist online. Die Inhalte sind noch nicht vollständig, aber es gibt schon einiges zu sehen.]]></description>
-            <content:encoded><![CDATA[<p>Die erste Woche ist online. Die Inhalte sind noch nicht vollständig, aber es gibt schon einiges zu sehen.</p>]]></content:encoded>
-            <category>starcode</category>
-            <category>woche1</category>
         </item>
     </channel>
 </rss>
