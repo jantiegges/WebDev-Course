@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarcode_web_development_course_website=self.webpackChunkstarcode_web_development_course_website||[]).push([[2664],{3662:e=>{e.exports=JSON.parse('{"permalink":"/starcode_web_development_course_website/blog/tags/woche-1","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

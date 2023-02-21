@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstarcode_web_development_course_website=self.webpackChunkstarcode_web_development_course_website||[]).push([[4472],{8996:e=>{e.exports=JSON.parse('{"permalink":"/starcode_web_development_course_website/blog/tags/starcode","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
