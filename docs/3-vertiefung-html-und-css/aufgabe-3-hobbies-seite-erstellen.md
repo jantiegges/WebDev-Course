@@ -32,7 +32,7 @@ In Aufgabe 1 haben wir ja bereits unsere Hobbies zu unserer Website hinzugefügt
 </details>
 
 5. Lösche den Absatz mit dem Text "Meine Hobbies sind:" auf der Seite `index.html`.
-6. Erstelle einen neuen Absatz auf der Startseite mit dem Text "Meine Hobbies findest du hier". Füge einen Link zu der Hobbies-Seite ein. (Tipp: Du kannst den Link mit dem Text "hier" erstellen.)
+6. Erstelle einen neuen Absatz auf der Startseite mit dem Text "Meine Hobbies findest du hier". Füge einen Link zu der Hobbies-Seite ein. (Tipp: Vergiss nicht einen Text für den Link anzugeben.)
 
 <details>
   <summary>Lösung</summary>

@@ -72,7 +72,7 @@ Absatz-Elemente werden verwendet, um Absätze zu erstellen. Sie werden mit dem T
 
 ---
 
-Um die HTML-Elemente zu sehen, die wir in dieser Lektion erstellt haben, kannst du die Datei `index.html` in deinem Browser öffnen. Dazu musst du die Datei in deinem Code-Editor öffnen und mit der rechten Maustaste auf die Datei klicken. Hier wähle `Open with` aus und wähle den Browser aus, mit dem du die Datei öffnen möchtest. Ein Beispiel für einen Browser ist [Google Chrome](https://www.google.com/chrome/). Wenn du etwas an der Website änderst, musst du die Datei speichern und den Browser aktualisieren, damit die Änderungen angezeigt werden.
+Um die HTML-Elemente zu sehen, die wir in dieser Lektion erstellt haben, kannst du die Datei `index.html` in deinem Browser öffnen. Dazu musst du die Datei in deinem Code-Editor öffnen und mit der rechten Maustaste auf die Datei klicken. Hier wähle `Öffnen mit` aus und wähle den Browser aus, mit dem du die Datei öffnen möchtest. Ein Beispiel für einen Browser ist [Google Chrome](https://www.google.com/chrome/). Wenn du etwas an der Website änderst, musst du die Datei speichern und den Browser aktualisieren, damit die Änderungen angezeigt werden.
 
 ## 3. CSS
 
