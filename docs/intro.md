@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Willkommen
 
-Willkommen zu der Website zum Starcode Webentwicklung Kurs. In diesem Kurs lernst du zunächst die Grundlagen der Webentwicklung und erstellst dann deine eigene Website. Du kannst den Kurs auch als Selbststudium absolvieren, indem du die Lektionen durchliest und die Aufgaben löst. Die verschiedenen Lektionen bauen aufeinander auf, sodass du die Lektionen in der angegebenen Reihenfolge durchlesen solltest.
+Willkommen zu der Website zum Starcode Webentwicklung Kurs. In diesem Kurs lernst du zunächst die Grundlagen der Webentwicklung und erstellst dann deine eigene Websiten. Du kannst den Kurs auch als Selbststudium absolvieren, indem du die Lektionen durchliest und die Aufgaben löst. Die verschiedenen Lektionen bauen aufeinander auf, sodass du die Lektionen in der angegebenen Reihenfolge durchlesen solltest.
 
 Wenn du den Kurs von Starcode besucht hast, kannst du diese Website auch als Nachschlagewerk verwenden. Der folgende Kursplan gibt eine Übersicht über die verschiedenen Lektionen und Aufgaben.
 
@@ -17,8 +17,9 @@ Wenn du den Kurs von Starcode besucht hast, kannst du diese Website auch als Nac
 3. [Vertiefung HTML und CSS](#3-vertiefung-html-und-css)
 4. [Einführung in Bootstrap](#4-einführung-in-bootstrap)
 5. [Vertiefung Bootstrap](#5-vertiefung-bootstrap)
-6. [Einführung in Javascript](#6-einführung-in-javascript)
-7. [Vertiefung Javascript](#7-vertiefung-javascript)
+6. [Abschluss Bootstrap](#6-abschluss-bootstrap)
+7. [Einführung in Javascript](#6-einführung-in-javascript)
+8. [Vertiefung Javascript](#7-vertiefung-javascript)
 
 ### Phase 2: Projekte
 
@@ -46,16 +47,26 @@ Geh zum [Kursabschnitt](./vertiefung-html-und-css).
 
 ### 4 Einführung in Bootstrap
 
-tbd
+In dieser Lektion lernen wir Bootstrap kennen. Bootstrap ist ein Framework, das es uns ermöglicht, Websites schnell und einfach zu erstellen. Wir lernen wie wir Bootstrap verwenden können um unsere Websites zu gestalten. Über die nächsten Lektionen werden wir eine Website für eine fiktive App erstellen.
+
+Geh zum [Kursabschnitt](./einführung-bootstrap).
 
 ### 5 Vertiefung Bootstrap
 
+In dieser Lektion vertiefen wir unser Wissen über Bootstrap. Wir lernen wie wir Bootstrap verwenden können um komplexere Websites zu erstellen.
+
+Geh zum [Kursabschnitt](./vertiefung-bootstrap).
+
+### 6 Abschluss Bootstrap
+
+In dieser Lektion schließen wir die Lektionen über Bootstrap ab. Zum Ende geben wir euch noch einen Hinweis wie ihr die Website online stellen könnt.
+
+Geh zum [Kursabschnitt](./abschluss-bootstrap).
+
+### 7 Einführung in Javascript
+
 tbd
 
-### 6 Einführung in Javascript
-
-tbd
-
-### 7 Vertiefung Javascript
+### 8 Vertiefung Javascript
 
 tbd

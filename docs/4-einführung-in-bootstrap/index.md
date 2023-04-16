@@ -462,11 +462,11 @@ Mit Hilfe des Grid-Systems haben wir es jetzt schon geschafft unsere App auf ver
 
 **Margin** hingegen ist der Abstand zwischen dem Rand eines Elements und dem nächsten Element.
 
-Um es dir leichter zu merken: Padding ist der Abstand innerhalb eines Elements, während Margin der Abstand zwischen den Elementen ist.
+Um es dir leichter zu merken: Padding ist der Abstand innerhalb eines Elements, während Margin der Abstand zwischen den Elementen ist. Das folgende Schaubild gibt nochmal einen Überblick.
+
+![Margin und Padding](./img/margin-padding.png)
 
 :::
-
-#### Beispiel
 
 Wenn du zum Beispiel ein Bild auf deiner Website hast, kannst du das Padding ändern, um den Abstand zwischen dem Bild und dem Text, der das Bild umgibt, zu vergrößern oder zu verkleinern. Das Padding wirkt sich auf den Inhalt des Elements aus.
 

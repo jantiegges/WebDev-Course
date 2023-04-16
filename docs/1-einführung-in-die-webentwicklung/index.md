@@ -28,6 +28,10 @@ Ein wichtiger Teil der Webentwicklung ist die Verwendung von Sprachen wie HTML, 
 
 :::
 
+![html-css-js](./img/html-css-js.jpg)
+
+_Bildquelle: [https://miro.medium.com/max/1400/0\*pNREGiTjwWD4EFKC](https://miro.medium.com/max/1400/0*pNREGiTjwWD4EFKC)_
+
 Wenn du diese Sprachen beherrschst, kannst du am Ende des Kurses deine eigenen Websites erstellen und sogar andere Websites verbessern.
 
 ## 3. Webentwicklung Showcase
@@ -41,6 +45,8 @@ Wir schauen uns einige Websites an, die mit HTML, CSS und JavaScript erstellt wu
 ---
 
 **Wichtig:** Wir verändern die Website nur lokal auf unserem Computer. Sobald wir die Website neu laden, ist alles wieder wie vorher, da wir sie uns neu vom Server laden.
+
+Dies liegt daran, dass die Website auf einem Server liegt und wir nur eine Kopie auf unserem Computer haben. Wenn wir die Website verändern, verändern wir nur die Kopie auf unserem Computer. Sobald wir die Website neu laden, wird die Kopie auf unserem Computer überschrieben und wir haben wieder die ursprüngliche Version. Das Bild unten veranschaulicht dies.
 
 ![server-client-architecture](./img/server-client.jpg)
 
