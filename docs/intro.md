@@ -49,7 +49,7 @@ Geh zum [Kursabschnitt](./vertiefung-html-und-css).
 
 In dieser Lektion lernen wir Bootstrap kennen. Bootstrap ist ein Framework, das es uns ermöglicht, Websites schnell und einfach zu erstellen. Wir lernen wie wir Bootstrap verwenden können um unsere Websites zu gestalten. Über die nächsten Lektionen werden wir eine Website für eine fiktive App erstellen.
 
-Geh zum [Kursabschnitt](./einführung-bootstrap).
+Geh zum [Kursabschnitt](./einführung-in-bootstrap).
 
 ### 5 Vertiefung Bootstrap
 
