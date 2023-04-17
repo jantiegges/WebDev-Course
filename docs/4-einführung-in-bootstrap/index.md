@@ -25,215 +25,23 @@ Wir können die Komponenten mit Bootstrap Klassen hinzufügen. Bootstrap Klassen
 
 Wir wollen uns in der 1. Aufgabe das Prinzip einmal am Beispiel eines Buttons anschauen.
 
-### Aufgabe 1: Buttons in HTML vs Bootstrap
+---
 
-<details>
-<summary>Aufgabe</summary>
+### [🤓 Aufgabe 1: Buttons in HTML vs Bootstrap](aufgabe-1-buttons-bootstrap.md)
 
-1. Öffne die Website https://codeply.com/
-2. Klicke in der linken Seite auf 'Bootstrap 5'
-3. Lösche den vorhanden Code.
-4. Füge den folgenden Code ein um einen Button zu erstellen:
-
-```html
-<button>Klick mich!</button>
-```
-
-5. Klicke auf 'Run' um die Website zu starten.
-
-Du siehst, dass der Button nicht gestyled ist. Das liegt daran, dass wir noch keine CSS Datei eingebunden haben. Wir können aber auch einfach die vorgefertigten Bootstrap Klassen verwenden.
-
-6. Gehe auf die Bootstrap Dokumentation und suche nach 'Buttons'. Dort findest du die vorgefertigten Bootstrap Klassen für Buttons. Suche dir eine Klasse aus und füge sie dem Button hinzu:
-
-<details>
-<summary>Beispiel</summary>
-
-```html
-<button class="btn btn-dark">Klick mich!</button>
-```
-
-</details>
-
-7. Klicke auf 'Run' um die Website zu starten.
-
-Du siehst, dass der Button jetzt gestyled ist. Das liegt daran, dass wir die vorgefertigten Bootstrap Klassen verwendet haben.
-
-</details>
+---
 
 ## 3. Wie verwenden wir Bootstrap?
 
 Wir können Bootstrap auf verschiedene Arten verwenden. Wir können Bootstrap herunterladen und lokal auf unserem Computer verwenden. Wir können Bootstrap auch über einen CDN (Content Delivery Network) verwenden. Wir können Bootstrap auch über ein Plugin in unserem Code Editor verwenden.
 
-Wir haben bereits den Code der für die nächsten Lektionen benötigt wird vorgefertigt, sodass ihr euch nicht mit dem Setup von Bootstrap beschäftigen müsst.
+Wir haben bereits den Code der für die nächsten Lektionen benötigt wird vorgefertigt, sodass ihr euch nicht mit dem Setup von Bootstrap beschäftigen müsst. In der nächsten Aufgabe werden wir nun unser erstes Bootstrap Projekt erstellen.
 
-### Aufgabe 2: Neues Projekt mit Bootstrap
+---
 
-<details>
-<summary>Aufgabe</summary>
+### [🤓 Aufgabe 2: Bootstrap Setup](aufgabe-2-neues-bootstrap-projekt.md)
 
-1. Erstelle einen neuen Ordner für dein Projekt.
-2. Erstelle eine neue Datei `index.html` und eine neue Datei `style.css` im Ordner.
-3. Öffne die Datei `index.html` und füge den folgenden Code ein:
-
-<details>
-<summary>HTML Code</summary>
-
-```html
-<!DOCTYPE html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-    <title>Starcode Bootstrap App Seite</title>
-
-    <!-- CSS Stylesheets -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
-      crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="styles.css" />
-
-    <!-- Bootstrap Scripts -->
-    <script
-      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-      crossorigin="anonymous"
-    ></script>
-
-    <!-- Font Awesome -->
-    <script
-      defer
-      src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"
-    ></script>
-  </head>
-
-  <body>
-    <!-- ======================================= -->
-    <!-- ===== Section 1: Navigationszeile ===== -->
-    <!-- ======================================= -->
-    <!-- Die Navigationszeile ist dafür da, dass man schnell zu bestimmten Sections auf unserer Website navigieren kann-->
-    <section class="section-style-1" id="navbar">
-      <div class="container-fluid">
-        <!-- Dein Code -->
-      </div>
-    </section>
-
-    <!-- ================================ -->
-    <!-- ===== Section 2: Überblick ===== -->
-    <!-- ================================ -->
-    <!-- Hier wird der Nutzer auf unsere App aufmerksam gemacht -->
-    <section class="section-style-2" id="überblick">
-      <div class="container-fluid">
-        <!-- Dein Code -->
-      </div>
-    </section>
-
-    <!-- =============================== -->
-    <!-- ===== Section 3: Features ===== -->
-    <!-- =============================== -->
-    <!-- Hier werden die Features unserer App aufgelistet -->
-    <section class="section-style-1" id="features">
-      <div class="container-fluid text-center">
-        <!-- Dein Code -->
-      </div>
-    </section>
-
-    <!-- ========================================= -->
-    <!-- ===== Section 4: Nutzer-Bewertungen ===== -->
-    <!-- ========================================= -->
-    <!-- Hier werden die Nutzer-Bewertungen angezeigt -->
-    <section class="section-style-2" id="bewertungen">
-      <!-- Dein Code -->
-    </section>
-
-    <!-- ============================= -->
-    <!-- ===== Section 5: Preise ===== -->
-    <!-- ============================= -->
-    <!-- Hier werden die verschiedenen Preispläne unserer App aufgelistet -->
-    <section class="section-style-1" id="preise">
-      <!-- Dein Code -->
-    </section>
-
-    <!-- ============================= -->
-    <!-- ===== Section 6: Footer ===== -->
-    <!-- ============================= -->
-    <!-- Hier werden die Social-Media-Icons und der Copyright-Text angezeigt -->
-    <section class="section-style-2" id="footer">
-      <div class="container-fluid text-center">
-        <!-- Dein Code -->
-      </div>
-    </section>
-  </body>
-</html>
-```
-
-</details>
-
-4. Öffne die Datei `style.css` und füge den folgenden Code ein:
-
-<details>
-<summary>CSS Code</summary>
-
-```css
-/* ============================= */
-/* ===== Allgemeine Styles ===== */
-/* ============================= */
-
-/* Dein Code */
-
-/* ======================================= */
-/* ===== Section 1: Navigationszeile ===== */
-/* ======================================= */
-
-/* Dein Code */
-
-/* ================================ */
-/* ===== Section 2: Überblick ===== */
-/* ================================ */
-
-/* Dein Code */
-
-/* =============================== */
-/* ===== Section 3: Features ===== */
-/* =============================== */
-
-/* Dein Code */
-
-/* ================================== */
-/* ===== Section 4: Bewertungen ===== */
-/* ================================== */
-
-/* Dein Code */
-
-/* ============================= */
-/* ===== Section 5: Preise ===== */
-/* ============================= */
-
-/* Dein Code */
-
-/* ============================= */
-/* ===== Section 6: Footer ===== */
-/* ============================= */
-
-/* Dein Code */
-```
-
-</details>
-
-</details>
+---
 
 ## 4. Anordung von Elementen
 
@@ -283,287 +91,32 @@ Da dies am Anfang etwas verwirrend, gucken wir uns das an einem Beispiel an.
 
 Nun haben wir uns lange genug mit der Theorie beschäftigt und wollen nun endlich mit dem Projekt anfangen.
 
-### Aufgabe 3: App Titel & Beschreibung und Bild
+---
 
-<details>
-<summary>Aufgabe</summary>
+### [🤓 Aufgabe 3: Überblick Section Setup](aufgabe-3-grid-system.md)
 
-Wir wollen nun die Section mit der id `überblick` anpassen. Wir wollen, dass hier ein Text links und ein Bild rechts angezeigt wird. Dafür verwenden wir die Bootstrap-Klasse `row`.
+---
 
-1. Füge ein neues div mit der Klasse `row` ein.
-2. Innerhalb dieses divs füge zwei divs mit der Klasse `col-lg-6` ein. Das erste div soll zudem die Klasse `überblick-links` haben und das zweite div soll die Klasse `überblick-rechts` haben.
+Nachdem wir die Struktur unserer Übersicht-Section erstellt haben, wollen wir diese nun mit etwas Inhalt füllen. Du solltest dir also zunächst Gedanken machen, was du in deiner App anbietest und wie du sie beschreiben kannst. Wenn du dir sicher bist, kannst du die nächste Aufgabe beginnen, in der wir die linke Seite der Section Übersicht designen wollen, also den Bereich ganz oben auf der Website.
 
-Außerdem wollen wir die Section mit einer bestimmten Farbe versehen. Dazu haben wir ihr bereits die Klasse section-style-2 gegeben. Diese Klasse wollen wir nun mit CSS anpassen.
+In dieser Aufgabe werden wir die linke Seite der Überblick Section erstellen. Dabei fügen wir eine große Überschrift, eine kleine Überschrift und einen Button ein. Du kannst natürlich auch andere Elemente verwenden, dies ist jedoch ein guter Start.
 
-1. Füge in der CSS-Datei eine neue Regel mit dem Selektor `.section-style-2` ein.
-2. Konfiguriere die Hintergrundfarbe (z.B. auf `#E7AB9A`) und die Textfarbe (z.B. auf `white`) der Section.
+---
 
-<details>
-<summary>Lösung</summary>
+### [🤓 Aufgabe 4: Überblick Links](aufgabe-4-ueberblick-links.md)
 
-#### index.html
+---
 
-```html
-<section class="section-style-2" id="überblick">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-lg-6 überblick-links"></div>
-      <div class="col-lg-6 überblick-rechts"></div>
-    </div>
-  </div>
-</section>
-```
+Nun wollen wir uns um die rechte Seite der Section Übersicht kümmern. In der nächsten Aufgabe werden wir ein Bild einfügen, das die App darstellt oder ein Feature beschreibt. Du kannst natürlich auch wieder hiervon abweichen und andere Elemente verwenden.
 
-#### style.css
+---
 
-```css
-.section-style-2 {
-  background-color: #e7ab9a;
-  color: white;
-}
-```
+### [🤓 Aufgabe 5: Überblick Rechts](aufgabe-5-ueberblick-rechts.md)
 
-</details>
-
-Nun wollen wir den überblick-links Bereich mit dem Titel und der Beschreibung unserer App füllen.
-
-1. Füge einen große Überschrift (`h1`) mit der Klasse `grosser-titel` und dem Text `Die neue Super-Duper-App` ein.
-2. Füge eine kleine Überschrift (`h3`) mit der Klasse `kleiner-titel` und dem Text `Dies ist eine lange Beschreibung meiner App und warum sie so toll ist` ein.
-3. Füge einen Button mit der Klasse `btn btn-dark btn-lg` und dem Text `Probier es aus` ein.
-
-Damit unsere Schriften auch wirklich so aussehen wie wir es uns vorstellen, wollen wir diese noch etwas anpassen.
-
-1. Füge in der CSS-Datei eine neue Regel mit dem Selektor `.grosser-titel` ein.
-2. Konfiguriere die Schriftgröße (z.B. auf `60px`) und setze das Attribut `font-weight` auf `bold`.
-3. Füge in der CSS-Datei eine neue Regel mit dem Selektor `.kleiner-titel` ein.
-4. Konfiguriere die Schriftgröße (z.B. auf `30px`).
-
-<details>
-<summary>Lösung</summary>
-
-#### index.html
-
-```html
-<section class="section-style-2" id="überblick">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-lg-6 überblick-links">
-        <h1 class="grosser-titel">Die neue Super-Duper-App</h1>
-        <h3 class="kleiner-titel">
-          Dies ist eine lange Beschreibung meiner App und warum sie so toll ist
-        </h3>
-        <button type="button" class="btn btn-dark btn-lg">
-          Probier es aus!
-        </button>
-      </div>
-      <div class="col-lg-6 überblick-rechts"></div>
-    </div>
-  </div>
-</section>
-```
-
-#### style.css
-
-```css
-.grosser-titel {
-  font-size: 60px;
-  font-weight: bold;
-}
-
-.kleiner-titel {
-  font-size: 30px;
-}
-```
-
-</details>
-
-Nun wollen wir den überblick-rechts Bereich mit dem Bild unserer App füllen.
-
-1. Erstelle einen Ordner names `images` im Projektordner.
-2. Füge ein Bild in den Ordner `images` ein.
-3. Füge das Bild in den überblick-rechts Bereich ein. (Hinweis: Du kannst das Bild mit dem Tag `img` einfügen. Die Quelle des Bildes kannst du mit dem Attribut `src` angeben.)
-4. Gebe dem Bild die Klasse `app-bild`.
-
-Das Bild ist nun zwar da, aber es etwas zu groß. Wir wollen es nun auf die richtige Größe bringen. Außerdem wollen wir die Ecken des Bildes abrunden.
-
-1. Füge in der CSS-Datei eine neue Regel mit dem Selektor `.app-bild` ein.
-2. Konfiguriere die Breite (z.B. auf `80%`).
-3. Runde die Ecken des Bildes ab. Dies kannst du mit dem Attribut `border-radius` tun. Den Wert kannst du frei wählen. (z.B. auf `5%`)
-
-<details>
-<summary>Endlösung</summary>
-
-#### index.html
-
-```html
-<section class="section-style-2" id="überblick">
-    <div class="container-fluid">
-        <!-- Wir wollen, dass der Text links und das Bild rechts angezeigt wird. Dafür verwenden wir die Bootstrap-Klasse "row" -->
-        <div class="row">
-            <div class="col-lg-6 überblick-links">
-                <!-- Hier spezifizieren wir den Titel und die Beschreibung unserer App -->
-                <h1 class="grosser-titel">Die neue Super-Duper-App</h1>
-                <h3 class="kleiner-titel">
-                    Dies ist eine lange Beschreibung meiner App und warum sie so toll ist
-                </h3>
-                <!-- Hier spezifizieren wir den Button, der den Nutzer zu unserer App weiterleitet -->
-                <button type="button" class="btn btn-dark btn-lg">
-                    Probier es aus!
-                </button>
-            </div>
-            <!-- Hier spezifizieren wir ein Bild welches zu unserer App passt -->
-            <div class="col-lg-6 überblick-rechts">
-                <img class="app-bild" src="images/title_pic.png" />
-            </div>
-        </div>
-</section>
-```
-
-#### styles.css
-
-```css
-/* ============================= */
-/* ===== Allgemeine Styles ===== */
-/* ============================= */
-.grosser-titel {
-  font-size: 60px;
-  font-weight: bold;
-}
-
-.kleiner-titel {
-  font-size: 30px;
-}
-
-.section-style-2 {
-  background-color: #e7ab9a;
-  color: white;
-}
-
-/* ================================ */
-/* ===== Section 2: Überblick ===== */
-/* ================================ */
-.app-bild {
-  width: 80%;
-  border-radius: 5%;
-}
-```
-
-</details>
-
-</details>
-
-### Margin und Padding
-
-Mit Hilfe des Grid-Systems haben wir es jetzt schon geschafft unsere App auf verschiedene Bildschirmgrößen anzupassen. Nun wollen wir noch die Abstände zwischen den Elementen anpassen. Hierfür verwenden wir die CSS Eigenschaften `margin` und `padding`.
-
-:::tip Margin & Padding
-
-**Padding** ist der Abstand zwischen dem Inhalt eines Elements (wie Text oder ein Bild) und dem Rand des Elements.
-
-**Margin** hingegen ist der Abstand zwischen dem Rand eines Elements und dem nächsten Element.
-
-Um es dir leichter zu merken: Padding ist der Abstand innerhalb eines Elements, während Margin der Abstand zwischen den Elementen ist. Das folgende Schaubild gibt nochmal einen Überblick.
-
-![Margin und Padding](./img/margin-padding.png)
-
-:::
-
-Wenn du zum Beispiel ein Bild auf deiner Website hast, kannst du das Padding ändern, um den Abstand zwischen dem Bild und dem Text, der das Bild umgibt, zu vergrößern oder zu verkleinern. Das Padding wirkt sich auf den Inhalt des Elements aus.
-
-Das Margin hingegen wirkt sich auf den Abstand zwischen den Elementen aus. Wenn du zwei Bilder auf deiner Website hast, kannst du das Margin zwischen ihnen ändern, um den Abstand zu vergrößern oder zu verkleinern.
-
-In CSS fügst du Padding und Margin mit den Eigenschaften `padding` und `margin` hinzu. Du kannst die Eigenschaften mit einem Wert von 0 bis 100% verwenden. Der Wert gibt den Abstand in Prozent des Elementes an.
-
-Der erste Wert gibt dabei den Abstand für links und rechts an, der zweite Wert gibt den Abstand für oben und unten an.
-
-#### Beispiel
-
-```css
-/* Padding */
-padding: 10% 5%;
-/* Margin */
-margin: 10% 5%;
-```
-
-### Aufgabe 4: Margin und Padding
-
-<details>
-<summary>Aufgabe</summary>
-
-Nun wollen wir die Abstände zwischen den Elementen anpassen. Hierfür verwenden wir die CSS Eigenschaften `margin` und `padding`.
-
-1. Füge in der CSS-Datei eine neue Regel mit dem Selektor `#überblick` ein.
-2. Gebe dem überblick-Element ein Padding von 10%.
-3. Füge in der CSS-Datei eine neue Regel mit dem Selektor `.überblick-links` ein.
-4. Gebe dem überblick-links Element ein Padding nach oben von 10% (Hinweis: Padding nach oben kannst du mit dem Attribut `padding-top` konfigurieren).
-5. Füge in der CSS-Datei eine neue Regel mit dem Selektor `.btn` ein.
-6. Gebe dem Button ein Margin von 10% nach oben und unten.
-
-<details>
-<summary>Endlösung</summary>
-
-#### style.css
-
-```css
-/* Section 2: Überblick */
-
-#überblick {
-  padding: 10%;
-}
-
-.überblick-links {
-  padding-top: 10%;
-}
-
-.btn {
-  margin: 10% 0;
-}
-```
-
-</details>
-
-</details>
-
-### CSS Funktionen
-
-In CSS kannst du auch Funktionen verwenden. Diese Funktionen sind sehr nützlich, um bestimmte Eigenschaften zu berechnen. Eine der häufigsten Funktionen ist `rotate()`. Mit dieser Funktion kannst du ein Element drehen, z.B. ein Bild.
-
-Dabei kannst du den Winkel in Grad angeben, um das Element zu drehen. Der positive Winkel dreht das Element im Uhrzeigersinn, während der negative Winkel das Element gegen den Uhrzeigersinn dreht.
-
-#### Beispiel
-
-```css
-transform: rotate(15deg);
-```
-
-### Aufgabe 5: Bild drehen
-
-<details>
-<summary>Aufgabe</summary>
-
-1. Gehe in der CSS-Datei zu der Regel mit dem Selektor `.app-bild`.
-2. Füge der Regel die Eigenschaft `transform` hinzu.
-3. Verwende die Funktion `rotate()` um das Bild um 15 Grad zu drehen.
-
-<details>
-<summary>Endlösung</summary>
-
-#### style.css
-
-```css
-.app-bild {
-  width: 80%;
-  border-radius: 5%;
-  transform: rotate(15deg);
-}
-```
-
-</details>
-
-</details>
+---
 
 ## 5. Abschluss
 
-In dieser Lektion haben wir einiges gelernt. Wir haben uns mit dem Grid-System von Bootstrap beschäftigt und gelernt wie wir es verwenden können, um unsere App auf verschiedene Bildschirmgrößen anzupassen. Außerdem haben wir uns mit den Eigenschaften `margin` und `padding` beschäftigt und gelernt wie wir diese verwenden können, um die Abstände zwischen den Elementen zu verändern.
+In dieser Lektion haben wir einiges gelernt. Wir haben unsere erste Bootstrap-App erstellt und gelernt wie wir mit Bootstrap Elemente anordnen können. Dazu haben wir uns mit dem Grid-System von Bootstrap beschäftigt und gelernt wie wir es verwenden können, um unsere App auf verschiedene Bildschirmgrößen anzupassen.
 
-In der nächsten Lektionen lernen wir weitere Bootstrap-Komponenten kennen und bauen unsere Website weiter aus.
+In der nächsten Lektionen lernen wir weitere Bootstrap-Komponenten kennen und bauen unsere Website weiter aus. Außerdem beschäftigen wir uns mit Margin und Padding, womit wir Elemente präzise auf der Seite positionieren können.
