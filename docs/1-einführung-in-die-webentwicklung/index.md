@@ -40,7 +40,7 @@ Wir schauen uns einige Websites an, die mit HTML, CSS und JavaScript erstellt wu
 
 ---
 
-### [Aufgabe 1: Websites manipulieren](./aufgabe-1-websites-manipulieren.md)
+### [🤓 Aufgabe 1: Websites manipulieren](./aufgabe-1-websites-manipulieren.md)
 
 ---
 
@@ -58,7 +58,7 @@ Wir schauen uns an wie die Webentwicklung sich entwickelt hat. Früher sahen Web
 
 ---
 
-### [Aufgabe 2: Websites Zeitmaschine](./aufgabe-2-websites-zeitmaschine.md)
+### [🤓 Aufgabe 2: Websites Zeitmaschine](./aufgabe-2-websites-zeitmaschine.md)
 
 ---
 
@@ -68,7 +68,7 @@ Jetzt haben wir bereits einiges gesehen, aber wollen endlich mal selber etwas pr
 
 ---
 
-### [Aufgabe 3: Erste Schritte mit HTML und CSS](./aufgabe-3-erste-schritte.md)
+### [🤓 Aufgabe 3: Erste Schritte mit HTML und CSS](./aufgabe-3-erste-schritte.md)
 
 ---
 

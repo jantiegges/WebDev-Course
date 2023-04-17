@@ -42,7 +42,7 @@ _Tipp: Ihr könnt die Bildadresse auch aus dem Browser kopieren, indem ihr mit d
 
 ---
 
-### [Aufgabe 1: Hobbies hinzufügen](./aufgabe-1-hobbies-hinzufügen)
+### [🤓 Aufgabe 1: Hobbies hinzufügen](./aufgabe-1-hobbies-hinzufügen)
 
 ---
 
@@ -60,7 +60,7 @@ _Tipp: Ihr könnt die Linkadresse aus dem Browser kopieren, indem ihr oben in di
 
 ---
 
-### [Aufgabe 2: Link zur Lieblingssehenswürdigkeit](./aufgabe-2-link-zur-lieblingssehenswürdigkeit)
+### [🤓 Aufgabe 2: Link zur Lieblingssehenswürdigkeit](./aufgabe-2-link-zur-lieblingssehenswürdigkeit)
 
 ---
 
@@ -72,7 +72,7 @@ Nun haben wir gesehen wie wir andere Websiten verlinken können. Moderne Website
 
 ---
 
-### [Aufgabe 3: Hobbies-Seite erstellen](./aufgabe-3-hobbies-seite-erstellen)
+### [🤓 Aufgabe 3: Hobbies-Seite erstellen](./aufgabe-3-hobbies-seite-erstellen)
 
 ---
 
@@ -100,7 +100,7 @@ Ihr erstellt divs mit dem `div`-Tag.
 
 ---
 
-### [Aufgabe 4: Divs Unterteilung](./aufgabe-4-divs-unterteilung)
+### [🤓 Aufgabe 4: Divs Unterteilung](./aufgabe-4-divs-unterteilung)
 
 ---
 
@@ -122,7 +122,7 @@ HTML-Attribute (wie das `class`-Attribut) werden innerhalb des Start-Tags eines 
 
 ---
 
-### [Aufgabe 5: Klassen hinzufügen](./aufgabe-5-klassen-hinzufügen)
+### [🤓 Aufgabe 5: Klassen hinzufügen](./aufgabe-5-klassen-hinzufügen)
 
 ---
 
@@ -148,7 +148,7 @@ Hiermit ändern wir von allen Elementen mit der Klasse `fahrrad` den Hintergrund
 
 ---
 
-### [Aufgabe 6: Klassen stylen](./aufgabe-6-klassen-stylen)
+### [🤓 Aufgabe 6: Klassen stylen](./aufgabe-6-klassen-stylen)
 
 ---
 
@@ -184,7 +184,7 @@ p {
 }
 ```
 
-### [Aufgabe 7: CSS Anordnung](./aufgabe-7-css-anordnung)
+### [🤓 Aufgabe 7: CSS Anordnung](./aufgabe-7-css-anordnung)
 
 ## 7. Abschluss
 

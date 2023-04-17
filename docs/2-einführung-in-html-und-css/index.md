@@ -16,7 +16,7 @@ Ein Beispiel für einen Code-Editor ist [Visual Studio Code](https://code.visual
 
 ---
 
-### [Aufgabe 1: Ein neues Projekt erstellen](./aufgabe-1-projekt-erstellen)
+### [🤓 Aufgabe 1: Ein neues Projekt erstellen](./aufgabe-1-projekt-erstellen)
 
 ---
 
@@ -36,7 +36,7 @@ Der Körperbereich `<body> </body>` enthält den Inhalt der Website, der angezei
 
 ---
 
-### [Augabe 2: Eine HTML-Datei erstellen](./aufgabe-2-html-datei-erstellen)
+### [🤓 Aufgabe 2: Eine HTML-Datei erstellen](./aufgabe-2-html-datei-erstellen)
 
 ---
 
@@ -68,7 +68,7 @@ Absatz-Elemente werden verwendet, um Absätze zu erstellen. Sie werden mit dem T
 
 ---
 
-### [Aufgabe 3: HTML-Elemente](./aufgabe-3-html-elemente)
+### [🤓 Aufgabe 3: HTML-Elemente](./aufgabe-3-html-elemente)
 
 ---
 
@@ -88,7 +88,7 @@ CSS-Dateien haben die Endung `.css`. CSS-Dateien werden in HTML-Dateien eingebun
 
 ---
 
-### [Aufgabe 4: Eine CSS-Datei erstellen und verlinken](./aufgabe-4-css-datei-erstellen)
+### [🤓 Aufgabe 4: Eine CSS-Datei erstellen und verlinken](./aufgabe-4-css-datei-erstellen)
 
 ---
 
@@ -120,7 +120,7 @@ p {
 
 ---
 
-### [Aufgabe 5: Farben mit CSS](./aufgabe-5-farben-mit-css)
+### [🤓 Aufgabe 5: Farben mit CSS](./aufgabe-5-farben-mit-css)
 
 ---
 
@@ -158,7 +158,7 @@ p {
 
 ---
 
-### [Aufgabe 6: Text mit CSS](./aufgabe-6-text-mit-css)
+### [🤓 Aufgabe 6: Text mit CSS](./aufgabe-6-text-mit-css)
 
 ---
 
