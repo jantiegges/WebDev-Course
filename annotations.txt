@@ -1,0 +1,10 @@
+- Genrell:
+    - button der einen von der bearbeiteten Aufgabe zurueck zu der Stelle in index.md bringt wo man aufgehoert hat zu lesen (also zur entsrpechenden Aufgabe)
+    - link zu den lösungen funkctioniert nicht
+
+- 1. Einfuehrung in die Webentwicklung:
+    - 3. Aufgabe: erklaeren was konrket da passiert (was ist <h1>?, was is color?, was ist body?) -> vielleicht auch nur verweis darauf dass das spaeter erklaert wird
+
+- 2. Einfuehrung in html und css:
+    - 1. Aufgabe: Erklaeren wie ein Website projekt mit einer IDE direkt erstellt wird (Docusauerus oder Node.js)
+    - 3. Aufgabe: wie funktioniert eine Uebersichtliche "Einrueckung"?
