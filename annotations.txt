@@ -8,3 +8,6 @@
 - 2. Einfuehrung in html und css:
     - 1. Aufgabe: Erklaeren wie ein Website projekt mit einer IDE direkt erstellt wird (Docusauerus oder Node.js)
     - 3. Aufgabe: wie funktioniert eine Uebersichtliche "Einrueckung"?
+
+- 3. Vertiefung html und css:
+    - Abschluss: Liste mit erlerneten HTML Tags und deren funktion
