@@ -50,9 +50,9 @@ _Tipp: Die Klasse für die Spaltenbreite hatte 3 Parts. Der erste Part für die 
 #### styles.css
 
 ```css
-.section-style-2 {
-  background-color: #e7ab9a;
-  color: white;
+.section-style-1 {
+  background-color: #ede9d5;
+  color: black;
 }
 ```
 
