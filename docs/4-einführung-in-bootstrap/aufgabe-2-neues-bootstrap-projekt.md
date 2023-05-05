@@ -3,7 +3,7 @@
 Da wir in diesem Kurs eine Website für eine imaginäre App erstellen wollen, überlege dir einen Namen für die App.
 
 1. Erstelle einen neuen Ordner für dein Projekt mit dem Namen deiner App.
-2. Erstelle eine neue Datei `index.html` und eine neue Datei `style.css` im Ordner.
+2. Erstelle eine neue Datei `index.html` und eine neue Datei `styles.css` im Ordner.
 3. Öffne die Datei `index.html` und füge den folgenden Code ein:
 
 <details>
@@ -20,34 +20,17 @@ Da wir in diesem Kurs eine Website für eine imaginäre App erstellen wollen, ü
 
     <!-- CSS Stylesheets -->
     <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
       rel="stylesheet"
-      integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="styles.css" />
-
-    <!-- Bootstrap Scripts -->
-    <script
-      src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
-      integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
-      integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
-      integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
-      crossorigin="anonymous"
-    ></script>
+    <link rel="stylesheet" href="styles_ende.css" />
 
     <!-- Font Awesome -->
     <script
       defer
-      src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"
+      src="https://use.fontawesome.com/releases/v6.4.0/js/all.js"
     ></script>
   </head>
 
@@ -107,6 +90,12 @@ Da wir in diesem Kurs eine Website für eine imaginäre App erstellen wollen, ü
         <!-- Dein Code -->
       </div>
     </section>
+    <!-- Bootstrap JS Script -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
 ```
@@ -114,7 +103,7 @@ Da wir in diesem Kurs eine Website für eine imaginäre App erstellen wollen, ü
 </details>
 
 4. Ändere den Titel der Website in den Namen deiner App.
-5. Öffne die Datei `style.css` und füge den folgenden Code ein:
+5. Öffne die Datei `styles.css` und füge den folgenden Code ein:
 
 <details>
 <summary>CSS Code</summary>

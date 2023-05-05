@@ -40,22 +40,24 @@ _Tipp: Wir verlinken das Carousel mit den Pfeilen, indem wir die id des Carousel
       </div>
     </div>
     <!-- Hier spezifizieren wir die Pfeile, mit denen der Nutzer zwischen den einzelnen Bewertungen wechseln kann -->
-    <a
+    <button
       class="carousel-control-prev"
-      href="#bewertungen-carousel"
-      role="button"
-      data-slide="prev"
+      type="button"
+      data-bs-target="#bewertungen-carousel"
+      data-bs-slide="prev"
     >
-      <span class="carousel-control-prev-icon"></span>
-    </a>
-    <a
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button
       class="carousel-control-next"
-      href="#bewertungen-carousel"
-      role="button"
-      data-slide="next"
+      type="button"
+      data-bs-target="#bewertungen-carousel"
+      data-bs-slide="next"
     >
-      <span class="carousel-control-next-icon"></span>
-    </a>
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
   </div>
 </section>
 ```
