@@ -1,6 +1,6 @@
 # Aufgabe 4: Überblick Links
 
-1. Füge einen große Überschrift (`h1`) mit der Klasse `grosser-titel` und dem Text `Die neue Super-Duper-App` ein.
+1. Füge eine große Überschrift (`h1`) mit der Klasse `grosser-titel` und dem Text `Die neue Super-Duper-App` ein.
 2. Füge eine kleine Überschrift (`h3`) mit der Klasse `kleiner-titel` und dem Text `Dies ist eine lange Beschreibung meiner App und warum sie so toll ist` ein.
 3. Füge einen Button mit der Klasse `btn btn-dark btn-lg` und dem Text `Probier es aus` ein.
 
