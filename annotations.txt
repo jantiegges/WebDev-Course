@@ -4,8 +4,5 @@
 - 1. Einfuehrung in die Webentwicklung:
     - 3. Aufgabe: erklaeren was konrket da passiert (was ist <h1>?, was is color?, was ist body?) -> vielleicht auch nur verweis darauf dass das spaeter erklaert wird (oder ins ReadMe einfuegen fuer Lehrende)
 
-- 2. Einfuehrung in html und css:
-    - 3. Aufgabe: wie funktioniert eine Uebersichtliche "Einrueckung"? (TODO fuer Max)
-
 - 3. Vertiefung html und css:
-    - Abschluss: Liste mit erlerneten HTML Tags und deren funktion
+    - Abschluss: Liste mit erlerneten HTML Tags und deren funktion (

@@ -70,7 +70,7 @@ Bootstrap erleichtert es dir auch, deine Inhalte für verschiedene Bildschirmgr�
 
 Hierfür verwendest du die Klassen `col-sm-`, `col-md-`, `col-lg-` und `col-xl-`. Diese Klassen werden mit einer Zahl zwischen 1 und 12 ergänzt, um die Breite der Spalte anzugeben.
 
-Die Klassen `col-sm-` und `col-md-` werden verwendet, um die Breite der Spalte auf kleinen und mittleren Bildschirmen anzugeben. Die Klasse `col-lg-` wird verwendet, um die Breite der Spalte auf großen Bildschirmen anzugeben. Die Klasse `col-xl-` wird verwendet, um die Breite der Spalte auf großen Bildschirmen anzugeben.
+Die Klassen `col-sm-` und `col-md-` werden verwendet, um die Breite der Spalte auf kleinen und mittleren Bildschirmen anzugeben. Die Klasse `col-lg-` wird verwendet, um die Breite der Spalte auf großen Bildschirmen anzugeben. Die Klasse `col-xl-` wird verwendet, um die Breite der Spalte auf sehr großen Bildschirmen anzugeben.
 
 #### Beispiel
 
