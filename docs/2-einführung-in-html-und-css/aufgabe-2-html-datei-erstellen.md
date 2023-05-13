@@ -31,6 +31,6 @@
 </html>
 ```
  
-:::tip Tipp: Einrückung
-test text
+:::tip Tipp: Einrückungen
+Einrückungen sind in HTML nicht notwendig, aber sie helfen uns, den Code besser zu verstehen. In den Lösungen dieses Kurses werden sinnvolle Einrückungen verwenden. Durch die Einrückungen wird der Code aber nicht verändert. Mit der Tab-Taste kannst du in den meisten Code-Editoren automatisch einrücken. Übersichtlicher wird der Code, wenn du die Einrückungen verwendest, wenn du HTML-Elemente ineinander verschachtelst. 
 :::
