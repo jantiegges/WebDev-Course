@@ -5,4 +5,8 @@
     - 3. Aufgabe: erklaeren was konrket da passiert (was ist <h1>?, was is color?, was ist body?) -> vielleicht auch nur verweis darauf dass das spaeter erklaert wird (oder ins ReadMe einfuegen fuer Lehrende)
 
 - 3. Vertiefung html und css:
-    - Abschluss: Liste mit erlerneten HTML Tags und deren funktion (
+    - Abschluss: Liste mit erlerneten HTML Tags und deren funktion
+
+- 4. Einführung in Bootstrap:
+    - Abschluss: Liste mit erlerneten Bootstrap Klassen und deren funktion
+    - 1. Aufgabe: Lösung: ".btn {margin: 10% 0; }" wieso die null? -> erklaeren dass es sich um die vertikale achse handelt und die horizontale nicht veraendert werden soll
