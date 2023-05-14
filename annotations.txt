@@ -11,3 +11,6 @@
 - 4. Einführung in Bootstrap:
     - Verknüfung zu stylsheet fasch: <link rel="stylesheet" href="styles.css" /> (nicht <link rel="stylesheet" href="styles_ende.css" />)
     - Abschluss: Liste mit erlerneten Bootstrap Klassen und deren funktion
+
+- 5. Vertiefung in Bootstrap:
+    - Bei mir funktioniert icon integration nicht (href link)? -> bei anderen auch?
