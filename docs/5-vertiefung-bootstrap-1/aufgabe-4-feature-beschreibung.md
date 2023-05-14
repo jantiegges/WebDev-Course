@@ -1,6 +1,6 @@
 # Aufgabe 4: Feature Beschreibungen
 
-1. Füge in dem HTML-Element mit der Klasse `feature-box` eine Überschrift mit der Klasse `kleiner-titel` und einen Paragraphen für die Beschreibung hinzu. In der Überschrift sollst der Titel des Features stehen und in dem Paragraphen sollst du die Beschreibung des Features schreiben.
+1. Füge in dem HTML-Element mit der Klasse `feature-box` eine Überschrift mit der Klasse `kleiner-titel` und einen Paragraphen für die Beschreibung hinzu. In der Überschrift soll der Titel des Features stehen und in dem Paragraphen sollst du die Beschreibung des Features schreiben.
 
 _Tipp: Da wir nur eine kleine Überschrift benötigen, kannst du zum Beispiel die `h3`-Überschrift verwenden._
 
