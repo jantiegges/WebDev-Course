@@ -3,7 +3,7 @@
 1. Gehe auf [fontawesome.com](https://fontawesome.com/). Klicke oben in der Navigation auf [Icons](https://fontawesome.com/icons). Dort findest du eine Liste mit allen verfügbaren Icons. Suche dir ein Icon aus und kopiere den HTML Code.
 2. Füge das Icon in den oberen Bereich der Feature Box ein. Du kannst den HTML Code einfach in die HTML Datei kopieren.
 3. Erreiche dass das Icon ausgefüllt ist und justiere die Größe mit der Klasse `fa-4x` (4x steht für 4 mal so groß wie die Standardgröße).
-4. Wiederhole die Schritte für die anderen beiden Feature Boxen.s
+4. Wiederhole die Schritte für die anderen beiden Feature Boxen.
 5. Gebe den Icons eine Farbe.
 6. Erezuge einen Abstand zwischen den Icons und dem Text.
 
