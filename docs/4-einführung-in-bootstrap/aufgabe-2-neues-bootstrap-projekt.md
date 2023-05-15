@@ -25,7 +25,7 @@ Da wir in diesem Kurs eine Website für eine imaginäre App erstellen wollen, ü
       integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="styles_ende.css" />
+    <link rel="stylesheet" href="styles.css" />
 
     <!-- Font Awesome -->
     <script
