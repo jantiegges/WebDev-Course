@@ -168,7 +168,7 @@ Nun hast du bereits einiges über HTML und CSS gelernt und kannst deine ersten W
 
 In der nächsten Lektion vertiefen wir unser Wissen über HTML und CSS und lernen und du lernst kennen wie wir unsere Website noch schöner gestalten können.
 
-Die fertigen Dateien für die Aufgaben findest du [hier](https://github.com/jantiegges/starcode_web_development_course/tree/main/2-introduction-to-html-and-css).
+Die fertigen Dateien für die Aufgaben findest du [hier](https://github.com/jantiegges/starcode_web_development_course/tree/main/2-einführung-in-html-und-css).
 
 ---
 

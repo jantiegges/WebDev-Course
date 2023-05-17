@@ -35,4 +35,8 @@ Ids sind eindeutig und sollten nur einmal verwendet werden.
 }
 ```
 
+:::tip Warum die `0` nach `margin: 10%`?
+Die `0` nach `margin: 10%` ist eine Kurzschreibweise für `margin: 10% 0 10% 0;`. Die `0` steht für `margin-right` und `margin-left`. Die `10%` steht für `margin-top` und `margin-bottom`.
+:::
+
 </details>

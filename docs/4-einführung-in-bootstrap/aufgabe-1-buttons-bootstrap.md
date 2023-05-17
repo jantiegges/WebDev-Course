@@ -13,7 +13,7 @@
 
 Du siehst, dass der Button nicht gestyled ist. Das liegt daran, dass wir noch keine CSS Datei eingebunden haben. Wir können aber auch einfach die vorgefertigten Bootstrap Klassen verwenden.
 
-6. Gehe auf die Bootstrap Dokumentation und suche nach 'Buttons'. Dort findest du die vorgefertigten Bootstrap Klassen für Buttons. Suche dir eine Klasse aus und füge sie dem Button hinzu:
+6. Gehe auf die [Bootstrap Dokumentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/) und suche nach 'Buttons'. Dort findest du die vorgefertigten Bootstrap Klassen für Buttons. Suche dir eine Klasse aus und füge sie dem Button hinzu:
 
 <details>
 <summary>Beispiel</summary>
