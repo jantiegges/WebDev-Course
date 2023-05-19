@@ -79,12 +79,18 @@ Geh zum [Kursabschnitt](./abschluss-bootstrap).
 
 ### 8 Einführung in Javascript
 
-tbd
+In dieser Lektion lernen wir Javascript kennen. Javascript ist eine Programmiersprache, die es uns ermöglicht, dynamische Websites zu erstellen. Wir lernen wie wir Javascript verwenden können um unsere Websites zu gestalten. Über die nächsten Lektionen werden wir eine Love Calculator Website erstellen.
+
+Geh zum [Kursabschnitt](./einführung-in-javascript).
 
 ### 9 Vertiefung Javascript
 
-tbd
+In dieser Lektion vertiefen wir unser Wissen über Javascript. Wir lernen wie wir Javascript verwenden können um komplexere Websites zu erstellen.
+
+Geh zum [Kursabschnitt](./vertiefung-in-javascript).
 
 ### 10 Abschluss Javascript
 
-tbd
+In dieser Lektion schließen wir die Lektionen über Javascript ab. Am Ende habt ihr eine fertige Love Calculator Website, mit der ihr den Love Score für all eure Freunde berechnen könnt.
+
+Geh zum [Kursabschnitt](./abschluss-javascript).
