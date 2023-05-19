@@ -6,7 +6,9 @@
 4. Ändere die Schriftgröße der Überschrift, sodass sie gut zur Größe des Bildes passt (z.B. 40px).
 5. Bewirke nun noch, dass die Bewertung gut auf die Bildschirmgröße passt.
 
-_Tipp: Dafür kannst du die Eigenschaft `margin` verwenden._
+:::tip Tipp: Margin 
+Dafür kannst du die Eigenschaft `margin` verwenden.
+:::
 
 <details>
 <summary>Lösung</summary>

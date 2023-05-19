@@ -5,7 +5,9 @@
 3. Ändere die Größe des Bildes, sodass es gut zur Größe des Bildes passt (z.B. 10%).
 4. Runde die Ecken des Bildes ab, sodass es wie ein Profilbild aussieht.
 
-_Tipp: Dafür kannst du die Eigenschaft `border-radius` verwenden._
+:::tip Tipp: Border Radius
+Dafür kannst du die Eigenschaft `border-radius` verwenden.
+:::
 
 5. Füge den Namen und den Ort des Nutzers in ein `p`-Element ein.
 6. Erreiche dass das Bild etwas Abstand zum Text hat.

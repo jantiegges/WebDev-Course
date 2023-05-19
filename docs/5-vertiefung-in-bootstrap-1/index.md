@@ -10,7 +10,7 @@ In dieser Lektion vertiefen wir unser Wissen über Bootstrap. Wir lernen dabei k
 
 Mit Hilfe des Grid-Systems haben wir es schon geschafft unsere App auf verschiedene Bildschirmgrößen anzupassen. Nun wollen wir noch die Abstände zwischen den Elementen anpassen. Hierfür verwenden wir die CSS Eigenschaften `margin` und `padding`.
 
-:::tip Margin & Padding
+:::info Margin & Padding
 
 **Padding** ist der Abstand zwischen dem Inhalt eines Elements (wie Text oder ein Bild) und dem Rand des Elements.
 

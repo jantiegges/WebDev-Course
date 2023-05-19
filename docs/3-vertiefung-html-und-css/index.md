@@ -38,7 +38,9 @@ Mit dem `img`-Element können wir Bilder in unsere Website einfügen. Dieses Ele
 />
 ```
 
-_Tipp: Ihr könnt die Bildadresse auch aus dem Browser kopieren, indem ihr mit der rechten Maustaste auf ein Bild klickt und dann auf "Bildadresse kopieren" klickt._
+:::tip Tipp: Bildadresse kopieren
+Ihr könnt die Bildadresse auch aus dem Browser kopieren, indem ihr mit der rechten Maustaste auf ein Bild klickt und dann auf "Bildadresse kopieren" klickt.
+:::
 
 ---
 
@@ -56,7 +58,9 @@ In der letzten Aufgabe habt ihr schon gesehen wie man Bilder auf einer Website v
 
 > <a href="https://www.starcode.de">Starcode</a>
 
-_Tipp: Ihr könnt die Linkadresse aus dem Browser kopieren, indem ihr oben in die Adresszeile klickt und dann den markierten Text kopiert._
+:::tip Tipp: Linkadresse kopieren
+Ihr könnt die Linkadresse aus dem Browser kopieren, indem ihr oben in die Adresszeile klickt und dann den markierten Text kopiert.
+:::
 
 ---
 

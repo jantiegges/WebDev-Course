@@ -40,7 +40,9 @@ Als letztes wollen wir noch erreichen, dass das Bild mittig in dem Container ang
 8. Gehe in den CSS-Selektor, der die Klasse `hobbies-bild` auswählt.
 9. Ändere die Position des Elements, sodass es mittig in dem Container angezeigt wird.
 
-_Tipp: Erinner dich daran, wie wir in der letzten Lektion den Text mittig angezeigt haben._
+:::tip Tipp: Mittiger Text
+Erinner dich daran, wie wir in der letzten Lektion den Text mittig angezeigt haben.
+:::
 
 <details>
   <summary>Lösung</summary>

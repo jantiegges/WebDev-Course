@@ -4,7 +4,9 @@
 2. Füge die Icons für Facebook, Twitter, Instagram und E-Mail hinzu.
 3. Füge darunter das Copyrigth hinzu.
 
-_**Tipp:** In die Copyright-Zeile fügst du als erstes das Symbol `©` hinzu und schreibst danach `Copyright`, das Jahr und danach dein Unternehmen oder Namen._
+:::tip Tipp: Copyright Symbol 
+In die Copyright-Zeile fügst du als erstes das Symbol `©` hinzu und schreibst danach `Copyright`, das Jahr und danach dein Unternehmen oder Namen.
+:::
 
 4. Füge den Icons die Klasse `social-icon` hinzu. 5. Füge dem Footer ein Padding hinzu (z.B. 5% 10%). 6. Füge den Social Icons etwas Margin hinzu, sodass sie nicht direkt aneinander kleben.
 

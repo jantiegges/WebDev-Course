@@ -7,7 +7,9 @@
 5. Gebe den Icons eine Farbe.
 6. Erezuge einen Abstand zwischen den Icons und dem Text.
 
-_**Tipp:** Um die Icons mit CSS zu stylen, kannst du ihnen eine Klasse geben. Zum Beispiel `icon`._
+:::tip Tipp: Icons 
+Um die Icons mit CSS zu stylen, kannst du ihnen eine Klasse geben. Zum Beispiel `icon`.
+:::
 
 <details>
 <summary>Lösung</summary>

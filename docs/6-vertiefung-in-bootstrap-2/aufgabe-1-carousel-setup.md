@@ -15,7 +15,9 @@
 2. Gehe auf die Bootstrap-Dokumentation und suche nach dem Carousel-Element. [Hier](https://getbootstrap.com/docs/5.0/components/carousel/) findest du die Dokumentation. Suche dir ein Beispiel aus und kopiere den Code dorthin wo du den Kommentar `Dein Code` siehst.
 3. Ändere die id des Carousels in `bewertungen-carousel` und füge diese id auch in den Pfeilen ein.
 
-_Tipp: Wir verlinken das Carousel mit den Pfeilen, indem wir die id des Carousels in den href-Attributen der Pfeile einfügen._
+:::tip Tipp: Carousel Pfeile
+Wir verlinken das Carousel mit den Pfeilen, indem wir die id des Carousels in den href-Attributen der Pfeile einfügen.
+:::
 
 4. Füge die Klasse `text-center` zu dem Carousel hinzu.
 5. Lösche alles was innerhalb der `div`-Elemente mit der Klasse `carousel-items` steht.

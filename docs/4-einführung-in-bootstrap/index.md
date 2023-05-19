@@ -18,7 +18,7 @@ Ihr findet die Dokumentation von Bootstrap hier: https://getbootstrap.com/docs/5
 
 Bootstrap bietet viele vorgefertigte Komponenten, die wir in unsere Website einbinden können.
 
-:::tip Komponenten & Bootstrap Klassen
+:::info Komponenten & Bootstrap Klassen
 Komponenten sind vorgefertigte Elemente, die wir in unsere Website einbinden können. Zum Beispiel Buttons, Cards, Navigationsleisten, Formulare, etc.
 Wir können die Komponenten mit Bootstrap Klassen hinzufügen. Bootstrap Klassen haben immer das Format `class="class1 class2 class3"`. Die Klassen werden mit Leerzeichen getrennt.
 :::

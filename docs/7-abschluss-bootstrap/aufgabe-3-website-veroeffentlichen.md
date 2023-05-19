@@ -5,13 +5,13 @@
 1. Erstelle einen Github Account
 2. Erstelle ein Repository mit dem Namen github_username.github.io
 
-:::tip Repositories
+:::tip Tipp: Repositories
 Ein Repository ist ein Speicherort für Code. Es ist wie ein Ordner für ein Projekt. In einem Repository können mehrere Dateien gespeichert werden. Ein Repository kann auch mehrere Ordner enthalten.
 :::
 
 3. Initialisiere das Repository mit einer README.md Datei indem du auf `Initialize this repository with a README` klickst.
 
-:::tip README.md
+:::tip Tipp: README.md
 Eine README.md Datei ist eine Datei, die Informationen über das Projekt enthält. Sie wird normalerweise verwendet, um Informationen über das Projekt zu teilen, wie z.B. die Beschreibung des Projekts, die Installationsschritte, die Verwendung des Projekts, die Autoren des Projekts, die Lizenz des Projekts, etc.
 :::
 

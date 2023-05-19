@@ -5,7 +5,9 @@
 3. Füge drei Spalten mit der Klasse `col` hinzu.
 4. Füge in jede Spalte ein `card`-Element mit der Klasse `rounded-3` hinzu.
 
-_Hinweis: Die Klasse `rounded-3` gibt den Karten eine abgerundete Ecke._
+:::tip Tipp: Abgerundete Ecken 
+Die Klasse `rounded-3` gibt den Karten eine abgerundete Ecke.
+:::
 
 5. Füge in jedes `card`-Element ein `card-header`-Element hinzu.
 6. Füge in jedes `card`-Element ein `card-body`-Element hinzu.
