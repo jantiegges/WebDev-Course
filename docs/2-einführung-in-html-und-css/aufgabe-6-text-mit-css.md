@@ -6,7 +6,7 @@ Die Aufgabe besteht darin, die Überschrift noch etwas zu verändern.
 - ändere die Schriftart zu einer Schriftart deiner Wahl (z.B. `Arial`)
 - bewirke, dass die Überschrift zentriert ist
 
-So bekommt deine Website eine individuelle Überschrift die direkt auffällt.
+So bekommt deine Website eine individuelle Überschrift, die direkt auffällt.
 
 Probier erstmal selbst aus, ob du die Aufgabe lösen kannst. Wenn du Hilfe brauchst, kannst du dir die Lösung anschauen.
 

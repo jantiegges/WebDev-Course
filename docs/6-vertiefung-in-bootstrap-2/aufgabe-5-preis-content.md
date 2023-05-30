@@ -2,12 +2,16 @@
 
 1. Füge in den `card-header`-Elemente einen Titel mit der Klasse `kleiner-titel` hinzu.
 
-_Hinweis: Wir reusen die Klasse `kleiner-titel` aus einer vorherigen Aufgabe._
+:::tip Tipp: Wiederverwenden 
+Wir verwenden dafür die Klasse `kleiner-titel` aus einer vorherigen Aufgabe erneut. 
+:::
 
 2. Füge in den `card-body`-Elemente eine große Überschrift mit dem Preis hinzu.
 3. Füge in den `card-body`-Elemente eine ungeordnete Liste mit den Features des Preisplans hinzu. Geben den Listenelementen die Klasse `list-unstyled` mit.
 
-_Hinweis: Die Klasse `list-unstyled` entfernt die Standard-Liste-Styling._
+:::tip Tipp: Standard Listen-Styling 
+Die Klasse `list-unstyled` entfernt die Standard-Listen-Styling.
+:::
 
 <details>
 <summary>Lösung</summary>

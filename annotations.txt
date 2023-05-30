@@ -5,12 +5,10 @@
     - 3. Aufgabe: erklaeren was konrket da passiert (was ist <h1>?, was is color?, was ist body?) -> vielleicht auch nur verweis darauf dass das spaeter erklaert wird (oder ins ReadMe einfuegen fuer Lehrende)
 
 - 3. Vertiefung html und css:
-
     - Abschluss: Liste mit erlerneten HTML Tags und deren funktion
 
 - 4. Einführung in Bootstrap:
-    - Verknüfung zu stylsheet fasch: <link rel="stylesheet" href="styles.css" /> (nicht <link rel="stylesheet" href="styles_ende.css" />)
     - Abschluss: Liste mit erlerneten Bootstrap Klassen und deren funktion
 
-- 5. Vertiefung in Bootstrap:
-    - Bei mir funktioniert icon integration nicht (href link)? -> bei anderen auch?
+- 7. Abschluss Bootstrap:
+    - 3. Aufgabe: Wenn noch nicht in Readme für Lehrende: viel genauer erklären was zu tun ist (die schülerinnen kennen wahrscheinlich weder git noch repositories etc)
