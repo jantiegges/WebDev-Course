@@ -4,7 +4,9 @@
 2. Erstelle eine `if`-`else if`-`else`-Abfrage, die je nach Love Score eine andere Reaktion anzeigt. Zum Beispiel könnte bei einem Love Score über 90, über 70, über 40 und unter 40 jeweils ein anderer Text und ein anderes Gif angezeigt werden.
 3. Zusätzlich, füge zu deiner untersten `else`-Bedingung code hinzu, der die Klasse `fa-heart-crack` und `fa-shake` zu dem Element mit der Klasse `result-icon` hinzufügt. Dadurch wird das Herz rot und es wackelt.
 
-_**Tipp: Du kannst die Klasse `fa-heart-crack` und `fa-shake` mit der Methode `classList.add()` hinzufügen. Zusätzlich musst du noch die Methode `classList.remove()` verwenden, um die Klasse `fa-heart` und `fa-beat` zu entfernen.**_
+:::tip Tipp: Klasse hinzufügen und entfernen
+Du kannst die Klasse `fa-heart-crack` und `fa-shake` mit der Methode `classList.add()` hinzufügen. Zusätzlich musst du noch die Methode `classList.remove()` verwenden, um die Klasse `fa-heart` und `fa-beat` zu entfernen.
+:::
 
 <details>
 <summary>Lösung</summary>

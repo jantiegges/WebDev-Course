@@ -1,7 +1,7 @@
 # Aufgabe 2: Love Score mit Namen
 
 1. Gehe in die Datei `script.js` in die Funktion `berechneLoveScore`.
-2. Erstelle eine if-else-Verzweigung, die den Love Score für die Namen "Mädhchen" und "Programmieren" auf 100 setzt.
+2. Erstelle eine if-else-Verzweigung, die den Love Score für die Namen "Mädchen" und "Programmieren" auf 100 setzt.
 3. Erstelle noch weitere if-else-Verzweigungen, die dir in den Sinn kommen.
 4. Für alle anderen Paare (`else`-Fall) soll ein zufälliger Love Score berechnet werden.
 

@@ -36,7 +36,7 @@ if (bedingung) {
 
 Die Bedingung ist dabei ein Ausdruck, der entweder `wahr` oder `falsch` ist. Wenn die Bedingung `wahr` ist, wird Aktion 1 ausgeführt. Wenn die Bedingung `falsch` ist, wird Aktion 2 ausgeführt.
 
-:::tip Bedingungsoperatoren
+:::info Bedingungsoperatoren
 Es gibt verschiedene Operatoren, die wir verwenden können, um eine Bedingung zu prüfen. Die wichtigsten sind:
 
 **`>`** größer als
