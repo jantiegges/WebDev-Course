@@ -10,7 +10,7 @@ In diesem Kapitel werden wir uns mit einigen fortgeschrittenen Themen in JavaScr
 
 Funktionen sind ein sehr wichtiges Konzept in der Programmierung. Sie helfen uns, unseren Code zu strukturieren und zu organisieren. Wir können Funktionen verwenden, um Code zu schreiben, der mehrmals ausgeführt werden soll. Wir können auch Funktionen verwenden, um unseren Code in kleinere Teile zu unterteilen, die einfacher zu verstehen sind.
 
-:::tip Funktionen
+:::info Funktionen
 Eine Funktion ist ein Codeblock, der eine bestimmte Aufgabe ausführt. Stell dir eine Funktion wie ein kleines Programm vor, das eine bestimmte Aufgabe ausführt. Jedes Mal, wenn du eine Funktion aufrufst, wird der Code in der Funktion ausgeführt.
 :::
 
@@ -56,7 +56,7 @@ const result = add();
 
 Nun wissen wir, wie wir eine Funktion erstellen und aufrufen können. Damit wir die Funktionen noch besser nutzen können, können wir Parameter verwenden.
 
-:::tip Parameter
+:::info Parameter
 Parameter sind Werte, die wir der Funktion übergeben können. Wenn wir eine Funktion aufrufen, können wir Werte an die Funktion übergeben. Stellen wir uns vor, wir haben eine Funktion `add`, die zwei Zahlen addiert. Wir können der Funktion zwei Zahlen übergeben, die addiert werden sollen. Die Funktion `add` hat zwei Parameter, die wir in den Klammern schreiben: `function add(a, b)`. Wenn wir die Funktion aufrufen, können wir zwei Zahlen übergeben: `add(1, 2)`. In der Funktion können wir die Zahlen `1` und `2` nun verwenden, um die Summe zu berechnen.
 :::
 
@@ -78,7 +78,7 @@ Dadurch können wir Funktionen noch flexibler nutzen, da wir die Werte, die wir 
 
 Bisher haben wir immer mit festen Werten gearbeitet. Wir haben zum Beispiel immer den Love Score `100` zurückgegeben. In der Realität wollen wir aber, dass der Love Score zufällig berechnet wird. Dafür können wir die JavaScript Funktion `Math.random()` verwenden.
 
-:::tip Math.random()
+:::info Math.random()
 Die Funktion `Math.random()` gibt eine zufällige Zahl zwischen `0` und `1` zurück. Die Zahl kann auch `0` sein, aber sie kann nicht `1` sein.
 :::
 

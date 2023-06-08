@@ -12,3 +12,6 @@
 
 - 7. Abschluss Bootstrap:
     - 3. Aufgabe: Wenn noch nicht in Readme für Lehrende: viel genauer erklären was zu tun ist (die schülerinnen kennen wahrscheinlich weder git noch repositories etc)
+
+- 9. Vertiefung Javascript:
+    - 4. Aufgabe: Recht unüberischtlich mit verschiedenen Codesnippets die eingefügt werden müssen
