@@ -9,7 +9,7 @@ _**Tipp:** Um den Wert eines Input Feldes zu bekommen, kannst du die `value` Eig
 
 5. Erstelle einen Alert der einen Text mit den Namen und dem Love Score anzeigt. Der Text soll folgendermaßen aussehen: `name1 und name2 matchen zu 100%!`.
 
-:::tip Sätze aneinander hängen
+:::tip Tipp: Sätze aneinander hängen
 Um zwei Sätze aneinander zu hängen, kannst du den `+` Operator verwenden. Wenn du zwei Variablen `name1` und `name2` hast, kannst du diese mit dem `+` Operator aneinander hängen: `name1 + name2`. Wenn du einen Text an eine Variable anhängen möchtest, musst du den Text in Anführungszeichen setzen: `name1 + " und " + name2`.
 
 #### Beispiel

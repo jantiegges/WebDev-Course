@@ -43,7 +43,7 @@ alert("Hello World!");
 
 Wenn wir diesen Code in unsere `script.js` Datei schreiben und die Website neu laden, dann sollte ein Alert mit dem Text "Hello World!" erscheinen.
 
-:::tip JavaScript Syntax
+:::info JavaScript Syntax
 JavaScript Befehle werden in der Regel mit einem Semikolon `;` abgeschlossen. Das ist aber nicht zwingend notwendig. Es ist aber wichtig, dass die Befehle in der richtigen Reihenfolge geschrieben werden, da sie in der Reihenfolge ausgeführt werden in der sie geschrieben wurden.
 :::
 
@@ -85,7 +85,7 @@ alert(document.querySelector(".überschrift").innerText);
 
 Mit diesem Befehl können wir auf das Element mit der Klasse `überschrift` zugreifen. Wir können nun auf die Eigenschaften des Elements zugreifen. In unserem Fall wollen wir auf den Text des Elements zugreifen. Diesen können wir mit der Eigenschaft `innerText` abrufen.
 
-:::tip JavaScript Objekte
+:::info JavaScript Objekte
 `document.querySelector()` gibt uns ein sogenanntes JavaScript Objekt zurück. Ein Objekt ist eine Sammlung von Eigenschaften und Methoden. Wir können auf die Eigenschaften und Methoden eines Objekts zugreifen, indem wir den Namen des Objekts gefolgt von einem Punkt `.` schreiben und dann den Namen der Eigenschaft oder Methode. In unserem Fall ist die Eigenschaft die wir abrufen wollen der Text des Elements. Die Eigenschaft heißt `innerText`. Wir können also auf den Text des Elements zugreifen indem wir `document.querySelector(".meine-überschrift").innerText` schreiben.
 :::
 
@@ -95,7 +95,7 @@ Mit diesem Befehl können wir auf das Element mit der Klasse `überschrift` zugr
 
 Nun können wir auf die Elemente unserer Website zugreifen. Wir wollen aber auch auf Events wie z.B. Klicks reagieren. Hierfür gibt es sogenannte Event Listener. Mit einem Event Listener können wir auf ein Event warten und dann wenn das Event eintritt etwas ausführen.
 
-:::tip Events
+:::info Events
 Events sind Aktionen die der User auf unserer Website ausführt. Das kann z.B. ein Klick auf einen Button sein oder das Scrollen auf der Website.
 :::
 
@@ -115,7 +115,7 @@ Ihr seht, dass wir hier wieder den Query Selektor verwenden um auf das Element m
 
 Nun können wir auf die Elemente unserer Website zugreifen und auf Events reagieren. Wir wollen aber noch mehr machen. Wir wollen z.B. den Text aus einem Input Feld auslesen und dann in einem Alert anzeigen. Hierfür müssen wir zunächst wissen was Variablen sind.
 
-:::tip Variablen
+:::info Variablen
 
 Variablen sind ein zentrales Konzept in der Programmierung. Eine Variable ist ein Behälter für einen Wert. Wir können einen Wert in einer Variable speichern und dann später auf diesen Wert zugreifen.
 
@@ -135,7 +135,7 @@ Um eine Variable zu erstellen müssen wir zunächst den Namen der Variable festl
 
 Wir lernen in diesem Kurs zwei Arten von Variablen kennen. Die `let` Variablen und die `const` Variablen. `Let` Variablen können ihren Wert ändern, das heißt wir können später einen anderen Wert in die Variable speichern. `Const` Variablen können ihren Wert nicht ändern, das heißt wir können später keinen anderen Wert in die Variable speichern.
 
-:::tip Variablen Typen
+:::info Variablen Typen
 **let** Variablen können ihren Wert ändern.
 
 **const** Variablen können ihren Wert nicht ändern.
