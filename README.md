@@ -2,7 +2,7 @@
 
 This 10-week course teaches the basics of web development. It is designed for beginners with no prior knowledge of web development. This course was developed for the Starcode Initiative, which aims to teach young girls the basics of programming. The course is taught in German and contains a mix of theory and practice. The course is divided into three phases. The first phase is designed to teach the basics of HTML & CSS. The second phase introduces Bootstrap for desigining modern Websites. The last Phase teaches the basics of JavaScript.
 
-This repository contains the website with the course material. The website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. The website is hosted on GitHub Pages and can be accessed [here](https://jantiegges.github.io/starcode_web_development_course_website/).
+This repository contains the website with the course material. The website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator. The website is hosted on GitHub Pages and can be accessed [here](https://jantiegges.github.io/WebDev-Course/).
 
 ## Usage
 
