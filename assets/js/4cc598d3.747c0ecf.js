@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstarcode_web_development_course_website=self.webpackChunkstarcode_web_development_course_website||[]).push([[9607],{9600:e=>{e.exports=JSON.parse('{"label":"m\xfcnchen","permalink":"/starcode_web_development_course_website/blog/tags/munchen","allTagsPath":"/starcode_web_development_course_website/blog/tags","count":1}')}}]);

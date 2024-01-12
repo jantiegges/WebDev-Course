@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Starcode Webentwicklung Kurs Blog</title>
-        <link>https://jantiegges.github.io/starcode_web_development_course_website/blog</link>
+        <link>https://jantiegges.github.io/WebDev-Course/blog</link>
         <description>Starcode Webentwicklung Kurs Blog</description>
         <lastBuildDate>Mon, 17 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Start des Kurses in München]]></title>
-            <link>https://jantiegges.github.io/starcode_web_development_course_website/blog/münchen</link>
-            <guid>https://jantiegges.github.io/starcode_web_development_course_website/blog/münchen</guid>
+            <link>https://jantiegges.github.io/WebDev-Course/blog/münchen</link>
+            <guid>https://jantiegges.github.io/WebDev-Course/blog/münchen</guid>
             <pubDate>Mon, 17 Apr 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Diese Woche startet der Kurs in München. Wir freuen uns auf die Teilnehmerinnen und Teilnehmer. 🎉]]></description>
             <content:encoded><![CDATA[<p>Diese Woche startet der Kurs in München. Wir freuen uns auf die Teilnehmerinnen und Teilnehmer. 🎉</p>]]></content:encoded>
@@ -20,8 +20,8 @@
         </item>
         <item>
             <title><![CDATA[Die erste Bootstrap Lektion]]></title>
-            <link>https://jantiegges.github.io/starcode_web_development_course_website/blog/bootstrap</link>
-            <guid>https://jantiegges.github.io/starcode_web_development_course_website/blog/bootstrap</guid>
+            <link>https://jantiegges.github.io/WebDev-Course/blog/bootstrap</link>
+            <guid>https://jantiegges.github.io/WebDev-Course/blog/bootstrap</guid>
             <pubDate>Fri, 10 Mar 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Die erste Bootstrap Lektion ist online. In dieser Lektion lernen wir Bootstrap kennen. Bootstrap ist ein Framework, das es uns ermöglicht, Websites schnell und einfach zu erstellen. Wir lernen wie wir Bootstrap verwenden können um unsere Websites zu gestalten. Über die nächsten Lektionen werden wir eine Website für eine fiktive App erstellen.]]></description>
             <content:encoded><![CDATA[<p>Die erste Bootstrap Lektion ist online. In dieser Lektion lernen wir Bootstrap kennen. Bootstrap ist ein Framework, das es uns ermöglicht, Websites schnell und einfach zu erstellen. Wir lernen wie wir Bootstrap verwenden können um unsere Websites zu gestalten. Über die nächsten Lektionen werden wir eine Website für eine fiktive App erstellen.</p>]]></content:encoded>
@@ -30,8 +30,8 @@
         </item>
         <item>
             <title><![CDATA[Lektion 1-3 ist online]]></title>
-            <link>https://jantiegges.github.io/starcode_web_development_course_website/blog/lektion1-3</link>
-            <guid>https://jantiegges.github.io/starcode_web_development_course_website/blog/lektion1-3</guid>
+            <link>https://jantiegges.github.io/WebDev-Course/blog/lektion1-3</link>
+            <guid>https://jantiegges.github.io/WebDev-Course/blog/lektion1-3</guid>
             <pubDate>Tue, 21 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Die ersten drei Kursabschnitte sind jetzt online. Hier lernt ihr die Grundlagen der Webentwicklung kennen. Dabei werden HTML und CSS anhand anschaulicher Beispiele erläutert und mit dazugehörigen Aufgaben vertieft. Am Ende habt ihr eine eigene Website erstellt. Viel Spaß beim Lernen!]]></description>
             <content:encoded><![CDATA[<p>Die ersten drei Kursabschnitte sind jetzt online. Hier lernt ihr die Grundlagen der Webentwicklung kennen. Dabei werden HTML und CSS anhand anschaulicher Beispiele erläutert und mit dazugehörigen Aufgaben vertieft. Am Ende habt ihr eine eigene Website erstellt. Viel Spaß beim Lernen!</p>]]></content:encoded>
@@ -39,8 +39,8 @@
         </item>
         <item>
             <title><![CDATA[Willkommen]]></title>
-            <link>https://jantiegges.github.io/starcode_web_development_course_website/blog/willkommen</link>
-            <guid>https://jantiegges.github.io/starcode_web_development_course_website/blog/willkommen</guid>
+            <link>https://jantiegges.github.io/WebDev-Course/blog/willkommen</link>
+            <guid>https://jantiegges.github.io/WebDev-Course/blog/willkommen</guid>
             <pubDate>Sun, 19 Feb 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Willkommen zu der Website zum Starcode Webentwicklung Kurs.]]></description>
             <content:encoded><![CDATA[<p>Willkommen zu der Website zum Starcode Webentwicklung Kurs.</p><p>Dieser Kurs ist eine wöchentliche AG, die von Starcode angeboten wird. Starcode ist eine Initiative zur Förderung von Frauen in der IT. Mehr Informationen zu Starcode gibt es auf der Website <a href="https://www.starcode.de" target="_blank" rel="noopener noreferrer">https://www.starcode.de</a></p><p>Diese Website ist eine Dokumentation des Kurses und soll als Nachschlagewerk dienen.</p>]]></content:encoded>

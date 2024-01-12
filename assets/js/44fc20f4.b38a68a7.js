@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkWebDev_Course=self.webpackChunkWebDev_Course||[]).push([[8626],{1057:e=>{e.exports=JSON.parse('{"permalink":"/WebDev-Course/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

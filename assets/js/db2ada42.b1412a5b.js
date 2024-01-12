@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkWebDev_Course=self.webpackChunkWebDev_Course||[]).push([[5615],{9e3:e=>{e.exports=JSON.parse('{"label":"starcode","permalink":"/WebDev-Course/blog/tags/starcode","allTagsPath":"/WebDev-Course/blog/tags","count":4}')}}]);
