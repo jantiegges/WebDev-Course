@@ -14,12 +14,12 @@ const config = {
   url: 'https://jantiegges.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/starcode_web_development_course_website/',
+  baseUrl: '/WebDev-Course/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'jantiegges', // Usually your GitHub org/user name.
-  projectName: 'starcode_web_development_course_website', // Usually your repo name.
+  projectName: 'WebDev-Course', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -70,7 +70,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/jantiegges/starcode_web_development_course',
+            href: 'https://github.com/jantiegges/WebDev-Course-Content',
             label: 'GitHub',
             position: 'right',
           },
